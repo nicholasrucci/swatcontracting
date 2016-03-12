@@ -103,8 +103,7 @@
         <div class="row flow-offset">
           <div class="col-md-4 col-sm-6">
             <div class="news-post">
-              <img src="images/page1_img-01.jpg" alt=""/>
-              <h4 class="inset-2">new technologies</h4>
+                <iframe width="370px" height="250px" src="http://www.youtube.com/embed/ZqVwSM7ublk?rel=0" frameborder="0" allowfullscreen=""></iframe>
               <p class="inset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
                 incididunt ut laboret dolore magna aliquat enimad minim veniam quis.</p>
               <a href="#" class="btn btn-primary btn-md">more</a>
