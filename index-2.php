@@ -255,7 +255,7 @@
     <!--========================================================
                               FOOTER
     =========================================================-->
-  <?php require_once('includes.footer.php'); ?>
+  <?php require_once('includes/footer.php'); ?>
 </div>
 <script src="js/script.js"></script>
 </body>
