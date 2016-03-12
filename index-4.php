@@ -103,9 +103,9 @@
                 <div class="map">
                     <div id="google-map" class="map_model map_model--1"></div>
                     <ul class="map_locations">
-                        <li data-x="-73.9874068" data-y="40.643180">
-                            <p> 9870 St Vincent Place, Glasgow, DC 45 Fr 45. <span>800 2345-6789</span></p>
-                        </li>
+                      <li data-x="-96.8191437" data-y="32.9307867">
+                        <p>13455 Noel Rd #1000, Dallas, TX 75240 <span>888-884-9380</span></p>
+                      </li>
                     </ul>
                 </div>
             </div>

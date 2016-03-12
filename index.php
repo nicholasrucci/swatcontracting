@@ -290,7 +290,7 @@
             <h5 class="bold uppercase">Online Support</h5>
             <hr/>
             <address>
-              <a href="callto:#">+ 8 800 757 43 92</a>
+              <a href="callto:#">888-884-9380</a>
               <dl class="samll">
                 <dt>Ask Your questions by e-mail: </dt>
                 <dd><a href="mailto:mail@demolink.org">mail@demolink.org</a></dd>
@@ -312,7 +312,7 @@
             </ul>
           </div>
           <div class="col-md-3 col-sm-6 uppercase">
-            <h1 class="brand_name"> <a href="./">mariner</a> </h1>
+            <h1 class="brand_name"> <a href="./">SWAT Contracting</a> </h1>
             <div class="copyright">
               © <span id="copyright-year"></span>
               <a href="index-5.html">| Privacy Policy</a>
@@ -325,8 +325,8 @@
     <div class="map">
       <div id="google-map" class="map_model"></div>
       <ul class="map_locations">
-        <li data-x="-73.9874068" data-y="40.643180">
-          <p> 9870 St Vincent Place, Glasgow, DC 45 Fr 45. <span>800 2345-6789</span></p>
+        <li data-x="-96.8191437" data-y="32.9307867">
+          <p>13455 Noel Rd #1000, Dallas, TX 75240 <span>888-884-9380</span></p>
         </li>
       </ul>
     </div>
