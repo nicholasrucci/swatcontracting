@@ -65,7 +65,7 @@
               <a href="./">Home</a>
             </li>
             <li>
-              <a href="index-1.html">About</a>
+              <a href="index-1.php">About</a>
               <ul>
                 <li>
                   <a href="#">History</a>
@@ -90,13 +90,13 @@
               </ul>
             </li>
             <li>
-              <a href="index-2.html">Services</a>
+              <a href="index-2.php">Services</a>
             </li>
             <li>
-              <a href="index-3.html">Projects</a>
+              <a href="index-3.php">Projects</a>
             </li>
             <li>
-              <a href="index-4.html">Contacts</a>
+              <a href="index-4.php">Contacts</a>
             </li>
           </ul>
           <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
