@@ -16,7 +16,7 @@
   <link rel='stylesheet' href='css/font-awesome.css'>
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.js"></script>
-  <!--[if lt IE 9]> 
+  <!--[if lt IE 9]>
   <html class="lt-ie9">
   <div style=' clear: both; text-align:center; position: relative;'>
     <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
