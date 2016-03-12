@@ -68,7 +68,7 @@
                 <a href="./">Home</a>
               </li>
               <li>
-                <a href="index-1.html">About</a>
+                <a href="index-1.php">About</a>
                 <ul>
                   <li>
                     <a href="#">History</a>
@@ -93,13 +93,13 @@
                 </ul>
               </li>
               <li>
-                <a href="index-2.html">Services</a>
+                <a href="index-2.php">Services</a>
               </li>
               <li>
-                <a href="index-3.html">Projects</a>
+                <a href="index-3.php">Projects</a>
               </li>
               <li>
-                <a href="index-4.html">Contacts</a>
+                <a href="index-4.php">Contacts</a>
               </li>
             </ul>
             <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
@@ -315,7 +315,7 @@
             <h1 class="brand_name"> <a href="./">mariner</a> </h1>
             <div class="copyright">
               © <span id="copyright-year"></span>
-              <a href="index-5.html">| Privacy Policy</a>
+              <a href="index-5.php">| Privacy Policy</a>
               More <a rel="nofollow" href="http://www.templatemonster.com/category/construction-company-website-templates/" target="_blank">Construction Company Website Templates at TemplateMonster.com</a>
             </div>
           </div>
