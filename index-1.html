@@ -254,65 +254,27 @@
         <!--Start advantages-->
         <section class="well-md">
             <div class="container">
+              <h3>Testimonials</h3>
                 <div class="row text-md-left flow-offset">
                     <div class="col-md-4 col-sm-6 ">
-                        <h3>advantages</h3>
-                        <div class="box box_mod-1 text-left">
-                            <div class="box_left">
-                                <span class="icon icon-primary icon-sm fa-briefcase"></span>
-                            </div>
-                            <div class="box_cnt">
-                                <h5 class="uppercase">Lorem ipsum dolor</h5>
-                                <p>Ut enim ad minim veniam. Aquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
-                            </div>
+                        <div class="quote">
+                            <p><q>"I am writing to express my heartfelt gratitude for the salesman, staff, and crew of SWAT Contracting. was bombarded by roofing companies to fix my roof & SWAT stood out above all the rest. Gabe Cortez was the first to contact me from SWAT. He was very courteous and understanding of my needs. He was also very professional - his uniform and presentation were the top of the line. Thank you for all the time you put into making this process so easy. The crew that installed my beautiful, new roof were prompt, courteous &amp; VERY professional as well. When they were finished, all trash debris was gone - no nails were left in my yard."</q>
+                            </p>
+                            <p><cite class="uppercase small">Mrs. J.W.G</cite><br>Fort Worth, TX</p>
                         </div>
-                        <div class="box box_mod-1 text-left">
-                            <div class="box_left">
-                                <span class="icon icon-primary icon-sm fa-clipboard"></span>
-                            </div>
-                            <div class="box_cnt">
-                                <h5 class="uppercase">Lacinia fermentum</h5>
-                                <p>Aquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
-                            </div>
-                        </div>
-                        <div class="box box_mod-1 text-left">
-                            <div class="box_left">
-                                <span class="icon icon-primary icon-sm fa-send"></span>
-                            </div>
-                            <div class="box_cnt">
-                                <h5 class="uppercase">Donec eget tellus non erat</h5>
-                                <p>Aquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
-                            </div>
-                        </div>
-
                     </div>
                     <div class="col-md-4 col-sm-6">
-                        <h3>Mission & values</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy
-                            hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient
-                            montes, nascetur ridiculus mus. </p>
-                        <ul class="marked-list text-left">
-                            <li><a href="#">Proin dictum elementum velit</a></li>
-                            <li><a href="#">Fusce euismod consequat ante</a></li>
-                            <li><a href="#">Lorem ipsum dolor sit amet, consectetuer</a></li>
-                            <li><a href="#">Pellentesque sed dolor</a></li>
-                            <li><a href="#">Aliquam congue fermentum nisl</a></li>
-                            <li><a href="#">Mauris accumsan nulla vel diam</a></li>
-                            <li><a href="#">Sed in lacus ut enim adipiscing aliquet</a></li>
-                            <li><a href="#">Nulla venenatis</a></li>
-                        </ul>
-
+                      <div class="quote">
+                          <p><q>I was watching the local news station after the bad weather came came through and I watched Andrew Dumas with SWAT Contracting on a featured story about how to hire a trustworthy and legitimate contractor. I have been watching this local news station for years now and I know if they trust SWAT Contracting enough to do a story with them then, that is who I need to use. I emailed them immediately and they showed up to my home that same day. They were instrumental in working with my insurance company directly to get my property restored to it's original condition. These guys are the best. I will definitely continue to refer SWAT Contracting to all my family and friends.</q>
+                          </p>
+                          <p><cite class="uppercase small">Jamie W.</cite><br>Plano, TX</p>
+                      </div>
                     </div>
-                    <div class="col-md-4 col-sm-12">
-                        <h3>Testimonials</h3>
+                    <div class="col-md-4 col-sm-6">
                         <div class="quote">
-                            <p><q>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy
-                                hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient
-                                montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec,
-                                luctus a, lorem. </q>
+                            <p><q>Thank you very much for all the effort you put into repairing the damage done to my home. I met you along with several of your crew and sales team & everyone proved that they had my best interest at heart. All of you were professional & very kind. The fact that the younger ones on your staff called me Sir was impressive. Young people don't seem to do that anymore. Although my home is somewhat small, each of you treated it as if it were a mansion. Again, thank you very much for all that you did to take care of my home.</q>
                             </p>
-                            <img src="images/page2_img-06.jpg" alt=""/>
-                            <p><cite class="uppercase small">John Franklin</cite><br>client</p>
+                            <p><cite class="uppercase small">Joseph H.</cite><br>Plano, TX</p>
                         </div>
                     </div>
                 </div>
