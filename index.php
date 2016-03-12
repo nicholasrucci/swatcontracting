@@ -284,13 +284,6 @@
               <li><a class="icon icon-md icon-default fa-twitter" href="https://twitter.com/SWATCONTRACTING" target="_blank"></a></li>
               <li><a class="icon icon-md icon-default fa-youtube" href="https://www.youtube.com/user/SWATContracting" target="_blank"></a></li>
               <li><a class="icon icon-md icon-default fa-linkedin" href="https://www.linkedin.com/in/andrew-dumas-872a3940" target="_blank"></a></li>
-<!--
-              <li><a class="icon icon-md icon-default fa-facebook" href="#"></a></li>
-              <li><a class="icon icon-md icon-default fa-google-plus" href="#"></a></li>
-              <li><a class="icon icon-md icon-default fa-rss" href="#"></a></li>
-              <li><a class="icon icon-md icon-default fa-pinterest" href="#"></a></li>
-              <li><a class="icon icon-md icon-default fa-linkedin" href="#"></a></li>
--->
             </ul>
           </div>
           <div class="col-md-3 col-sm-6 pull-lg-right">
