@@ -46,28 +46,6 @@
                         </li>
                         <li class="active">
                             <a href="index-1.php">About</a>
-                            <ul>
-                                <li>
-                                    <a href="#">History</a>
-                                </li>
-                                <li>
-                                    <a href="#">News</a>
-                                    <ul>
-                                        <li>
-                                            <a href="#">History</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">News</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Testimolials</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="#">Testimonials</a>
-                                </li>
-                            </ul>
                         </li>
                         <li>
                             <a href="index-2.php">Services</a>
