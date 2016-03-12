@@ -312,7 +312,7 @@
             </ul>
           </div>
           <div class="col-md-3 col-sm-6 uppercase">
-            <h1 class="brand_name"> <a href="./">mariner</a> </h1>
+            <h1 class="brand_name"> <a href="./">SWAT Contracting</a> </h1>
             <div class="copyright">
               © <span id="copyright-year"></span>
               <a href="index-5.html">| Privacy Policy</a>
