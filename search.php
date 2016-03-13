@@ -23,7 +23,7 @@
                  alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
         </a>
     </div>
-    <script src="js/html5shiv.js"></script>    
+    <script src="js/html5shiv.js"></script>
   	<script src='js/selectivizr-min.js'></script>
     <![endif]-->
 
@@ -39,13 +39,13 @@
         <div class="top-part">
             <div class="container">
                 <ul class="inline-list top-menu">
-                    <li><a href="#">sitemap</a></li>
+                    <li><a href="#">Call now for a FREE estimate</a></li>
                     <li><a href="#">faq</a></li>
                 </ul>
                 <ul class="inline-list text-right">
                     <li><a class="icon icon-md icon-secondary fa-facebook" href="#"></a></li>
                     <li><a class="icon icon-md icon-secondary fa-google-plus" href="#"></a></li>
-                    <li><a class="icon icon-md icon-secondary fa-rss" href="#"></a></li>
+                    <li><a class="icon icon-md icon-secondary fa-twitter" href="#"></a></li>
                     <li><a class="icon icon-md icon-secondary fa-pinterest" href="#"></a></li>
                     <li><a class="icon icon-md icon-secondary fa-linkedin" href="#"></a></li>
                 </ul>
@@ -61,8 +61,8 @@
             </div>
             <section class="well-sm text-sm-right">
                 <dl>
-                    <dt>Free phone:</dt>
-                    <dd><a class="bold" href="callto:#">+ 8 800 757 43 92</a></dd>
+                    <dt>Toll Free:</dt>
+                    <dd><a class="bold" href="callto:#">888.884.9380</a></dd>
                 </dl>
             </section>
         </div>
@@ -163,7 +163,7 @@
              <ul class="inline-list">
                <li><a class="icon icon-md icon-default fa-facebook" href="#"></a></li>
                <li><a class="icon icon-md icon-default fa-google-plus" href="#"></a></li>
-               <li><a class="icon icon-md icon-default fa-rss" href="#"></a></li>
+               <li><a class="icon icon-md icon-default fa-twitter" href="#"></a></li>
                <li><a class="icon icon-md icon-default fa-pinterest" href="#"></a></li>
                <li><a class="icon icon-md icon-default fa-linkedin" href="#"></a></li>
              </ul>
@@ -172,7 +172,7 @@
              <h5 class="bold uppercase">Online Support</h5>
              <hr/>
              <address>
-               <a href="callto:#">+ 8 800 757 43 92</a>
+               <a href="callto:#">888.884.9380</a>
                <dl class="samll">
                  <dt>Ask Your questions by e-mail: </dt>
                  <dd><a href="mailto:mail@demolink.org">mail@demolink.org</a></dd>
@@ -196,7 +196,7 @@
            <div class="col-md-3 col-sm-6 uppercase">
              <h1 class="brand_name"> <a href="./">mariner</a> </h1>
              <div class="copyright">
-               © <span id="copyright-year"></span>
+               ï¿½ <span id="copyright-year"></span>
                <a href="index-5.html">| Privacy Policy</a>
              </div>
            </div>

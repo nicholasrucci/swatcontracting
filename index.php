@@ -8,8 +8,7 @@
     <div class="top-part">
       <div class="container">
         <ul class="inline-list top-menu">
-          <li><a href="#">sitemap</a></li>
-          <li><a href="#">faq</a></li>
+          <li><a href="#">Call now for a FREE estimate</a></li>
         </ul>
         <ul class="inline-list text-right">
           <li><a class="icon icon-md icon-secondary fa-facebook" href="https://www.facebook.com/pages/SWAT-Contracting/229951837082509" target="_blank"></a></li>
@@ -30,8 +29,8 @@
       </div>
       <section class="well-sm text-sm-right">
         <dl>
-          <dt>Free phone:</dt>
-          <dd><a class="bold" href="callto:#">+ 8 800 757 43 92</a></dd>
+          <dt>Toll Free:</dt>
+          <dd><a class="bold" href="callto:#">888.884.9380</a></dd>
         </dl>
       </section>
     </div>
