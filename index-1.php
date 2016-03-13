@@ -8,13 +8,12 @@
         <div class="top-part">
             <div class="container">
                 <ul class="inline-list top-menu">
-                    <li><a href="#">sitemap</a></li>
-                    <li><a href="#">faq</a></li>
+                    <li><a href="#">Call now for a FREE estimate</a></li>
                 </ul>
                 <ul class="inline-list text-right">
                     <li><a class="icon icon-md icon-secondary fa-facebook" href="#"></a></li>
                     <li><a class="icon icon-md icon-secondary fa-google-plus" href="#"></a></li>
-                    <li><a class="icon icon-md icon-secondary fa-rss" href="#"></a></li>
+                    <li><a class="icon icon-md icon-secondary fa-twitter" href="#"></a></li>
                     <li><a class="icon icon-md icon-secondary fa-pinterest" href="#"></a></li>
                     <li><a class="icon icon-md icon-secondary fa-linkedin" href="#"></a></li>
                 </ul>
@@ -24,14 +23,14 @@
             <div class="rd-navbar-brand">
                 <span class="bsh"></span>
                 <h1 class="rd-navbar-brand_name">
-                    <a href="./">mariner</a>
+                    <a href="./">S.W.A.T.</a>
                 </h1>
-                <p class="rd-navbar-brand_slogan">marine construction</p>
+                <p class="rd-navbar-brand_slogan">Roofing &amp; Contruction</p>
             </div>
             <section class="well-sm text-sm-right">
                 <dl>
-                    <dt>Free phone:</dt>
-                    <dd><a class="bold" href="callto:#">+ 8 800 757 43 92</a></dd>
+                    <dt>Toll Free:</dt>
+                    <dd><a class="bold" href="callto:#">888.884.9380</a></dd>
                 </dl>
             </section>
         </div>
