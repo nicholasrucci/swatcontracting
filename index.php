@@ -134,23 +134,20 @@
           </div>
           <div class="col-md-6 text-center wow fadeInRight" data-wow-delay=".5s">
             <h3 class="text-md-left">why choose us</h3>
-            <p class="small uppercase brdr text-md-left offset-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+            <p class="small uppercase brdr text-md-left offset-2">Satisfied Customers Are Our Greatest Reward</p>
             <div class="row text-left offset-0">
               <ul class="marked-list col-xs-6">
-                <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                <li><a href="#">Consectetur adipisicing elit sed</a></li>
-                <li><a href="#">Eiusmod tempor incididunt ut</a></li>
-                <li><a href="#">Et dolore magna aliqua</a></li>
-                <li><a href="#">Ut enim ad minim veniam</a></li>
-                <li><a href="#">Aquis nostrud exercitation</a></li>
+                <li><a href="#">We care about our customers</a></li>
+                <li><a href="#">Qualified for the job</a></li>
+                <li><a href="#">Guaranteed Satisfaction</a></li>
+                <li><a href="#">FREE roof inspection</a></li>
+                <li><a href="#">Conduct business with honor and integrity</a></li>
               </ul>
               <ul class="marked-list col-xs-6">
-                <li><a href="#">Ut enim ad minim veniam</a></li>
-                <li><a href="#">Duis nostrud exercitationulla</a></li>
-                <li><a href="#">Aco laboris nisi ut aliquip</a></li>
-                <li><a href="#">Ex ea commodo consequat</a></li>
-                <li><a href="#">Duis aute irure dolor in</a></li>
-                <li><a href="#">Zeprehenderit in voluptate velit</a></li>
+                <li><a href="#">Update with technology for roofing</a></li>
+                <li><a href="#">State-of-the-art materials</a></li>
+                <li><a href="#">Active in the community</a></li>
+                <li><a href="#">24 Hour Emergency Service</a></li>
               </ul>
             </div>
           </div>
