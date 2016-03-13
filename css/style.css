@@ -907,9 +907,9 @@ strong {
   }
 }
 .rd-navbar-brand_name {
-  font-weight: 700;
   line-height: 1;
   letter-spacing: -2px;
+  font-family: 'Black Ops One';
 }
 .rd-navbar-brand_name a {
   position: relative;
@@ -923,6 +923,7 @@ strong {
   padding-left: 2px;
   letter-spacing: 1px;
   word-spacing: -3px;
+  font-family: 'Black Ops One';
 }
 .rd-navbar-brand:before, .rd-navbar-brand:after {
   display: none;
