@@ -2,15 +2,6 @@
   <section class="bg-primary well-xs banner text-md-left">
     <div class="container">
       <div class="row">
-          <div class="col-md-9 wow fadeInLeft">
-            <div class="banner-name">
-              <p class="big">View our events calendar</p>
-            </div>
-          </div>
-          <div class="col-md-3 wow fadeInRight">
-            <time class="big" datetime="2015-01-01">2015</time>
-            <span class="icon icon-primary-img"></span>
-        </div>
       </div>
     </div>
   </section>
