@@ -1,6 +1,6 @@
 <?php
 
-$recipients = 'test@demolink.com';
+$recipients = 'andrew@swatcontracting.com';
 //$recipients = '#';
 
 try {
