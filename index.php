@@ -39,21 +39,7 @@
         <div data-src="images/page-1_slide01.jpg">
           <div class="camera_caption fadeIn">
             <div class="container">
-              <p>Specializing <br/><span>in marine construction</span></p>
-            </div>
-          </div>
-        </div>
-        <div data-src="images/page-1_slide02.jpg">
-          <div class="camera_caption fadeIn">
-            <div class="container">
-              <p>Specializing <br/><span>in marine construction</span></p>
-            </div>
-          </div>
-        </div>
-        <div data-src="images/page-1_slide03.jpg">
-          <div class="camera_caption fadeIn">
-            <div class="container">
-              <p>Specializing <br/><span>in marine construction</span></p>
+              <p>Specializing in<br/><span>roofing &amp; Contracting</span></p>
             </div>
           </div>
         </div>
@@ -98,7 +84,7 @@
     <section class="well-lg bg-image-1 text-center ">
       <div class="container">
         <h2 class="text-sm-left">welcome to our company!</h2>
-        <h4 class="text-sm-left">A comprehensive range of marine construction services</h4>
+        <h4 class="text-sm-left">Stories of the impact that we have made on the community</h4>
         <div class="row flow-offset">
           <div class="col-md-4 col-sm-6">
             <div class="news-post">
@@ -129,45 +115,39 @@
         <div class="row flow-offset">
           <div class="col-md-6 text-center wow fadeInRight" data-wow-delay=".3s">
             <h3 class="text-md-left">how we can help</h3>
-            <p class="small uppercase brdr text-md-left offset-2">exercitationem ullam corporis</p>
+            <p class="small uppercase brdr text-md-left offset-2">Complete turnkey contracting and restoration services</p>
             <div class="row text-left offset-0">
               <ul class="marked-list col-xs-6 ">
-                <li><a href="#">Sed ut perspiciatis undemnis</a></li>
-                <li><a href="#">Este natus error sit</a></li>
-                <li><a href="#">Soluptatem accusantium</a></li>
-                <li><a href="#">Doloremque laudantium</a></li>
-                <li><a href="#">Fotam rem aperiam eaque</a></li>
-                <li><a href="#">Apsa quae ab illo inventore</a></li>
+                <li><a href="#">Roofing</a></li>
+                <li><a href="#">Gutters</a></li>
+                <li><a href="#">Siding</a></li>
+                <li><a href="#">Painting</a></li>
+                <li><a href="#">Windows<a></li>
               </ul>
               <ul class="marked-list col-xs-6">
-                <li><a href="#">Dotam rem aperiam eaque ipsa</a></li>
-                <li><a href="#">Eae ab illo inventore veritatis et</a></li>
-                <li><a href="#">Suasi architecto beatae vitae</a></li>
-                <li><a href="#">Explicaboemo enim ipsam</a></li>
-                <li><a href="#">Eluptatem quia voluptas sit</a></li>
-                <li><a href="#">Aspernatur aut odit aut</a></li>
+                <li><a href="#">Emergency Services</a></li>
+                <li><a href="#">Fencing</a></li>
+                <li><a href="#">Insulation</a></li>
+                <li><a href="#">Interior</a></li>
               </ul>
             </div>
           </div>
           <div class="col-md-6 text-center wow fadeInRight" data-wow-delay=".5s">
             <h3 class="text-md-left">why choose us</h3>
-            <p class="small uppercase brdr text-md-left offset-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+            <p class="small uppercase brdr text-md-left offset-2">Satisfied Customers Are Our Greatest Reward</p>
             <div class="row text-left offset-0">
               <ul class="marked-list col-xs-6">
-                <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                <li><a href="#">Consectetur adipisicing elit sed</a></li>
-                <li><a href="#">Eiusmod tempor incididunt ut</a></li>
-                <li><a href="#">Et dolore magna aliqua</a></li>
-                <li><a href="#">Ut enim ad minim veniam</a></li>
-                <li><a href="#">Aquis nostrud exercitation</a></li>
+                <li><a href="#">We care about our customers</a></li>
+                <li><a href="#">Qualified for the job</a></li>
+                <li><a href="#">Guaranteed Satisfaction</a></li>
+                <li><a href="#">FREE roof inspection</a></li>
+                <li><a href="#">Conduct business with honor and integrity</a></li>
               </ul>
               <ul class="marked-list col-xs-6">
-                <li><a href="#">Ut enim ad minim veniam</a></li>
-                <li><a href="#">Duis nostrud exercitationulla</a></li>
-                <li><a href="#">Aco laboris nisi ut aliquip</a></li>
-                <li><a href="#">Ex ea commodo consequat</a></li>
-                <li><a href="#">Duis aute irure dolor in</a></li>
-                <li><a href="#">Zeprehenderit in voluptate velit</a></li>
+                <li><a href="#">Update with technology for roofing</a></li>
+                <li><a href="#">State-of-the-art materials</a></li>
+                <li><a href="#">Active in the community</a></li>
+                <li><a href="#">24 Hour Emergency Service</a></li>
               </ul>
             </div>
           </div>
@@ -175,50 +155,6 @@
       </div>
     </section>
     <!--End how we can help-->
-
-    <!--Recent projects-->
-    <section class="well-sm">
-      <div class="container">
-        <h3>Recent projects</h3>
-
-        <div class="owl-carousel">
-          <div class="item product">
-            <img src="images/page1_img-04.jpg" alt=""/>
-
-            <div class="product__cnt">
-              <a href="#" class="small uppercase">Lorem ipsum dolor</a>
-              <span class="icon icon-default-sm"></span>
-            </div>
-          </div>
-          <div class="item product">
-            <img src="images/page1_img-05.jpg" alt=""/>
-
-            <div class="product__cnt">
-              <a href="#" class="small uppercase">excepturi sint occaecati</a>
-              <span class="icon icon-default-sm"></span>
-            </div>
-          </div>
-          <div class="item product">
-            <img src="images/page1_img-06.jpg" alt=""/>
-
-            <div class="product__cnt">
-              <a href="#" class="small uppercase">in culpa qui officia</a>
-              <span class="icon icon-default-sm"></span>
-            </div>
-          </div>
-          <div class="item product">
-            <img src="images/page1_img-07.jpg" alt=""/>
-
-            <div class="product__cnt">
-              <a href="#" class="small uppercase">Et harum quidem</a>
-              <span class="icon icon-default-sm"></span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--End recent projects-->
-
   </main>
 
   <!--========================================================
