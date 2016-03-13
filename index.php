@@ -103,29 +103,20 @@
         <div class="row flow-offset">
           <div class="col-md-4 col-sm-6">
             <div class="news-post">
-              <img src="images/page1_img-01.jpg" alt=""/>
-              <h4 class="inset-2">new technologies</h4>
-              <p class="inset-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                incididunt ut laboret dolore magna aliquat enimad minim veniam quis.</p>
-              <a href="#" class="btn btn-primary btn-md">more</a>
+                <iframe width="310px" height="250px" src="http://www.youtube.com/embed/ZqVwSM7ublk?rel=0" frameborder="0" allowfullscreen=""></iframe><br /><br />
+              <p class="inset-1"><strong>S.W.A.T. Roofing &amp; Contracting</strong> offers 24 hour emergency services to help homeowners restore their most valuable investment. We are a full-service, turnkey contracting and restoration service company.</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6">
             <div class="news-post">
-              <img src="images/page1_img-02.jpg" alt=""/>
-              <h4 class="inset-2">professional services</h4>
-              <p class="inset-1">Massa dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                laboret dolore magna aliquat enimad minim veniam quis dolore.</p>
-              <a href="#" class="btn btn-primary btn-md">more</a>
+                <iframe width="310px" height="250px" src="http://www.youtube.com/embed/LqutAx-HOHY?rel=0" frameborder="0" allowfullscreen=""></iframe><br /><br />
+              <p class="inset-1">Hail storms can do a tremendous amount of damage to roofs on residential homes. The problem is you can't see the damage from the ground. <strong>S.W.A.T Roofing &amp; Contracting</strong> can let you know what has been damaged.</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-12">
             <div class="news-post">
-              <img src="images/page1_img-03.jpg" alt=""/>
-              <h4 class="inset-2">inspection and testing</h4>
-              <p class="inset-1">Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                laboret dolore magna aliquat enimad minim veniam nostrud exercitation ullamco.</p>
-              <a href="#" class="btn btn-primary btn-md">more</a>
+                <iframe width="310px" height="250px" src="http://www.youtube.com/embed/REHbnVikxSw?rel=0" frameborder="0" allowfullscreen=""></iframe><br /><br />
+              <p class="inset-1">Be very careful in selecting a roofing contractor to repair or replace your roof. Listen to Andy Dumas with <strong>S.W.A.T. Roofing &amp; Contracting</strong> for tips on how to hire a reputable roofing contractor to fix your home.</p>
             </div>
           </div>
         </div>
