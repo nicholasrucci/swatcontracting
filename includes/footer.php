@@ -19,7 +19,7 @@
             <li><a class="icon icon-md icon-default fa-linkedin" href="https://www.linkedin.com/in/andrew-dumas-872a3940" target="_blank"></a></li>
           </ul>
         </div>
-        <div class="col-md-3 col-sm-6 pull-lg-right">
+        <div class="col-md-6 col-sm-6 pull-lg-right">
           <h5 class="bold uppercase">Online Support</h5>
           <hr/>
           <address>
@@ -30,20 +30,6 @@
               <dd><a href="mailto:andrew@swatcontracting.com">andrew@swatcontracting.com</a></dd>
             </dl>
           </address>
-        </div>
-        <div class="col-md-3 col-sm-6 pull-lg-right">
-          <h5 class="bold uppercase">latest posts</h5>
-          <hr/>
-          <ul class="list">
-            <li>
-              <p class="small">Eos et accusamus et iustom odgnissimos ducimus qui blap.</p>
-              <time datetime="P5D">5 Days ago.</time>
-            </li>
-            <li>
-              <p class="small">At accusamus et iustom odgnissimos ducimus qui blapraesentium. </p>
-              <time datetime="P7D">7 Days ago.</time>
-            </li>
-          </ul>
         </div>
         <div class="col-md-3 col-sm-6 uppercase">
           <h1 class="brand_name"> <a href="./">mariner</a> </h1>
