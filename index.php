@@ -115,23 +115,20 @@
         <div class="row flow-offset">
           <div class="col-md-6 text-center wow fadeInRight" data-wow-delay=".3s">
             <h3 class="text-md-left">how we can help</h3>
-            <p class="small uppercase brdr text-md-left offset-2">exercitationem ullam corporis</p>
+            <p class="small uppercase brdr text-md-left offset-2">Complete turnkey contracting and restoration services</p>
             <div class="row text-left offset-0">
               <ul class="marked-list col-xs-6 ">
-                <li><a href="#">Sed ut perspiciatis undemnis</a></li>
-                <li><a href="#">Este natus error sit</a></li>
-                <li><a href="#">Soluptatem accusantium</a></li>
-                <li><a href="#">Doloremque laudantium</a></li>
-                <li><a href="#">Fotam rem aperiam eaque</a></li>
-                <li><a href="#">Apsa quae ab illo inventore</a></li>
+                <li><a href="#">Roofing</a></li>
+                <li><a href="#">Gutters</a></li>
+                <li><a href="#">Siding</a></li>
+                <li><a href="#">Painting</a></li>
+                <li><a href="#">Windows<a></li>
               </ul>
               <ul class="marked-list col-xs-6">
-                <li><a href="#">Dotam rem aperiam eaque ipsa</a></li>
-                <li><a href="#">Eae ab illo inventore veritatis et</a></li>
-                <li><a href="#">Suasi architecto beatae vitae</a></li>
-                <li><a href="#">Explicaboemo enim ipsam</a></li>
-                <li><a href="#">Eluptatem quia voluptas sit</a></li>
-                <li><a href="#">Aspernatur aut odit aut</a></li>
+                <li><a href="#">Emergency Services</a></li>
+                <li><a href="#">Fencing</a></li>
+                <li><a href="#">Insulation</a></li>
+                <li><a href="#">Interior</a></li>
               </ul>
             </div>
           </div>
