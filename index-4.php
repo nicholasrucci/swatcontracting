@@ -96,26 +96,25 @@
                 <div class="row flow-offset">
                     <div class="col-md-4 text-center text-md-left">
                         <h3>addresses</h3>
-                        <p class="small uppercase brdr offset-2 text-secondary">exercitationem ullam corporis</p>
+                        <p class="small uppercase brdr offset-2 text-secondary">Come visit us!</p>
                         <div class="contact-info">
                             <address>
                                 <dl>
-                                    <dt class="heading-5 text-secondary uppercase">address 1:</dt>
-                                    <dd>The Company Name Inc.</dd>
-                                    <dd>8901 Marmora Road, Glasgow, D04 89GR.</dd>
+                                    <dt class="heading-5 text-secondary uppercase">Dallas Location:</dt>
+                                    <dd>Two Galleria Tower</dd>
+                                    <dd>13455 Noel Rd., Suite 1000</dd>
                                     <dt class="heading-5 text-secondary uppercase">Telephones:</dt>
-                                    <dd> <a href="callto:#">+1 800 559 6580</a></dd>
-                                    <dd> <a href="callto:#">+1 800 603 6035</a></dd>
-                                    <dt class="heading-5 text-secondary uppercase">address 2:</dt>
-                                    <dd>The Company Name Inc.</dd>
-                                    <dd>9863 - 9867 Mill Road, Cambridge, MG09 99HT.</dd>
+                                    <dd><strong>Toll Free: </strong><br /><a href="callto:#">888.884.9380</a></dd>
+                                    <dd><strong>Dallas/Fort Worth: </strong><br /><a href="callto:#">817.756.6666</a></dd>
+                                    <dd><strong>Oklahoma City: </strong><br /><a href="callto:#">405.551.8212</a></dd>
+                                    <dd><strong>Rio Grande Valley: </strong><br /><a href="callto:#">956.217.0398</a></dd>
                                 </dl>
                             </address>
                         </div>
                     </div>
                     <div class="col-md-8 text-center">
                         <h3 class="text-md-left">contact form</h3>
-                        <p class="small uppercase brdr text-md-left offset-2 text-secondary">exercitationem ullam corporis</p>
+                        <p class="small uppercase brdr text-md-left offset-2 text-secondary">Contact us and we will get back to you ASAP</p>
                         <form class='mailform' method="post" action="bat/rd-mailform.php">
                             <input type="hidden" name="form-type" value="contact"/>
                             <fieldset>
