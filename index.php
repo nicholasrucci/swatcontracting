@@ -39,7 +39,7 @@
         <div data-src="images/page-1_slide01.jpg">
           <div class="camera_caption fadeIn">
             <div class="container">
-              <p>Specializing <br/><span>in marine construction</span></p>
+              <p>Specializing in<br/><span>roofing &amp; Contracting</span></p>
             </div>
           </div>
         </div>
