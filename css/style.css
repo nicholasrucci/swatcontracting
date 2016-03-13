@@ -914,15 +914,6 @@ strong {
 .rd-navbar-brand_name a {
   position: relative;
 }
-.rd-navbar-brand_name a:before {
-  content: "";
-  position: absolute;
-  width: 29px;
-  height: 33px;
-  background: url(../images/brand-icon.png) no-repeat center;
-  top: 12px;
-  left: -35px;
-}
 .rd-navbar-brand_name a:hover {
   color: #fff;
 }
