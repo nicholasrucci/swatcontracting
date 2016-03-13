@@ -25,10 +25,10 @@
                 <span class="bsh"></span>
 
                 <h1 class="rd-navbar-brand_name">
-                    <a href="./">mariner</a>
+                    <a href="./">S.W.A.T.</a>
                 </h1>
 
-                <p class="rd-navbar-brand_slogan">marine construction</p>
+                <p class="rd-navbar-brand_slogan">Roofing &amp; Contracting</p>
             </div>
             <section class="well-sm text-sm-right">
                 <dl>
