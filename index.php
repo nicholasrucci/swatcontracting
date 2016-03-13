@@ -43,20 +43,6 @@
             </div>
           </div>
         </div>
-        <div data-src="images/page-1_slide02.jpg">
-          <div class="camera_caption fadeIn">
-            <div class="container">
-              <p>Specializing <br/><span>in marine construction</span></p>
-            </div>
-          </div>
-        </div>
-        <div data-src="images/page-1_slide03.jpg">
-          <div class="camera_caption fadeIn">
-            <div class="container">
-              <p>Specializing <br/><span>in marine construction</span></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
     <div id="stuck_container" class="stuck_container">
@@ -175,50 +161,6 @@
       </div>
     </section>
     <!--End how we can help-->
-
-    <!--Recent projects-->
-    <section class="well-sm">
-      <div class="container">
-        <h3>Recent projects</h3>
-
-        <div class="owl-carousel">
-          <div class="item product">
-            <img src="images/page1_img-04.jpg" alt=""/>
-
-            <div class="product__cnt">
-              <a href="#" class="small uppercase">Lorem ipsum dolor</a>
-              <span class="icon icon-default-sm"></span>
-            </div>
-          </div>
-          <div class="item product">
-            <img src="images/page1_img-05.jpg" alt=""/>
-
-            <div class="product__cnt">
-              <a href="#" class="small uppercase">excepturi sint occaecati</a>
-              <span class="icon icon-default-sm"></span>
-            </div>
-          </div>
-          <div class="item product">
-            <img src="images/page1_img-06.jpg" alt=""/>
-
-            <div class="product__cnt">
-              <a href="#" class="small uppercase">in culpa qui officia</a>
-              <span class="icon icon-default-sm"></span>
-            </div>
-          </div>
-          <div class="item product">
-            <img src="images/page1_img-07.jpg" alt=""/>
-
-            <div class="product__cnt">
-              <a href="#" class="small uppercase">Et harum quidem</a>
-              <span class="icon icon-default-sm"></span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--End recent projects-->
-
   </main>
 
   <!--========================================================
