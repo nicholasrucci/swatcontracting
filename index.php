@@ -84,7 +84,7 @@
     <section class="well-lg bg-image-1 text-center ">
       <div class="container">
         <h2 class="text-sm-left">welcome to our company!</h2>
-        <h4 class="text-sm-left">A comprehensive range of marine construction services</h4>
+        <h4 class="text-sm-left">Stories of the impact that we have made on the community</h4>
         <div class="row flow-offset">
           <div class="col-md-4 col-sm-6">
             <div class="news-post">
