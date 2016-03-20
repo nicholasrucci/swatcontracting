@@ -75,128 +75,18 @@
        <section class="well-sm well-sm--inset-1 bg-image-1">
            <div class="container">
                <div class="row flow-offset text-md-left">
-                   <div class="col-md-4 col-sm-6 text-sm-left">
-                       <h2>who we are</h2>
-                       <img src="images/page2_img-01.jpg" alt=""/>
-                       <p><strong>S.W.A.T. Roofing &amp; Contracting</strong> is a nationally recognized storm restoration company and continues to set many of the standards in the industry. We are abreast of the latest technologies in the restoration industry and our members have been trained by the manufacturers to learn the most up to date installation procedures the industry has to offer.</p>
-                       <p>Our team will gladly provide you proof of our certifications with the manufacturers. The owner of <strong>S.W.A.T. Roofing &amp; Contracting</strong> has the distinguished honor of being part of the <i>Professional Roofers Advisory Council</i>. This organization is comprised of the leaders in the roofing industry.</p>
-                   </div>
-                   <div class="col-md-4 col-sm-6">
-                       <h2>our history</h2>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">1998 - </span>
-                           </div>
-                           <div class="box_cnt ">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                   incididunt ut laboret dolore magna aliquat enimad minim veniam quis.
-                                   Nostrud exercitation ullamco laboris nisi ut aliquip
-                                   ex ea commodo consequat. </p>
-                           </div>
-                       </div>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">2003 - </span>
-                           </div>
-                           <div class="box_cnt">
-                               <p>Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta.
-                                   Fusce suscipit varius mi. </p>
-                           </div>
-                       </div>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">2005 - </span>
-                           </div>
-                           <div class="box_cnt ">
-                               <p>Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis
-                                   natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                           </div>
-                       </div>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">2008 - </span>
-                           </div>
-                           <div class="box_cnt ">
-                               <p>Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis
-                                   parturient montes, nascetur ridiculus mus.</p>
-                           </div>
-                       </div>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">2012 - </span>
-                           </div>
-                           <div class="box_cnt ">
-                               <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
-                                   mus.</p>
-                           </div>
-                       </div>
-
+                   <div class="col-md-6 col-sm-6 text-sm-left">
+                       <img src="images/aboutPic.jpg" alt=""/>
                    </div>
                    <div class="col-md-4 col-sm-12">
-                       <h2>opportunities</h2>
-                       <h4 class="offset-1">Praesent justo dolor quis lobortis dignissim</h4>
-                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut laboret dolore magna aliquat enimad minim veniam quis.</p>
-                       <ul class="marked-list text-left">
-                           <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                           <li><a href="#">Consectetur adipisicing elit sed</a></li>
-                           <li><a href="#">Eiusmod tempor incididunt ut</a></li>
-                           <li><a href="#">Et dolore magna aliqua</a></li>
-                           <li><a href="#">Ut enim ad minim veniam</a></li>
-                           <li><a href="#">Aquis nostrud exercitation ullamco</a></li>
-                           <li><a href="#">Laboris nisi ut aliquip</a></li>
-                       </ul>
-                       <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiatnulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <h2>Who We Are</h2>
+                       <p><strong>S.W.A.T. Roofing &amp; Contracting</strong> is a nationally recognized storm restoration company and continues to set many of the standards in the industry. We are abreast of the latest technologies in the restoration industry and our members have been trained by the manufacturers to learn the most up to date installation procedures the industry has to offer.</p>
+                       <p>Our team will gladly provide you proof of our certifications with the manufacturers. The owner of <strong>S.W.A.T. Roofing &amp; Contracting</strong> has the distinguished honor of being part of the <i>Professional Roofers Advisory Council</i>. This organization is comprised of the leaders in the roofing industry.</p>
                    </div>
                </div>
            </div>
        </section>
         <!--End who we are-->
-        <section class="well-md bg-default-variant-1 text-md-left">
-            <div class="container">
-                <h3>meet our team</h3>
-                <p class="small uppercase brdr offset-2">exercitationem ullam corporis</p>
-
-                <div class="row flow-offset">
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="product">
-                            <img src="images/page2_img-02.jpg" alt=""/>
-                            <div class="product__cnt">
-                                <a href="#" class="small uppercase">Mark Johnson</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="product">
-                            <img src="images/page2_img-03.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <a href="#" class="small uppercase">Sam Kromstain</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="product">
-                            <img src="images/page2_img-04.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <a href="#" class="small uppercase">Anete Puga</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="product">
-                            <img src="images/page2_img-05.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <a href="#" class="small uppercase">Bradley Grosh</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--End who we are-->
-
         <!--Start advantages-->
         <section class="well-md">
             <div class="container">
