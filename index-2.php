@@ -51,6 +51,10 @@
                         </li>
                         <li class="active">
                             <a href="index-2.php">Services</a>
+                            <ul>
+                              <li><a href="residential.php">Residential</a></li>
+                              <li><a href="commercial.php">Commercial</a></li>
+                            </ul>
                         </li>
                         <li>
                             <a href="index-3.php">Projects</a>
