@@ -75,62 +75,11 @@
        <section class="well-sm well-sm--inset-1 bg-image-1">
            <div class="container">
                <div class="row flow-offset text-md-left">
-                   <div class="col-md-4 col-sm-6 text-sm-left">
+                   <div class="col-md-6 col-sm-6 text-sm-left">
                        <h2>who we are</h2>
-                       <img src="images/page2_img-01.jpg" alt=""/>
+                       <img src="images/aboutPic.jpg" alt=""/>
                        <p><strong>S.W.A.T. Roofing &amp; Contracting</strong> is a nationally recognized storm restoration company and continues to set many of the standards in the industry. We are abreast of the latest technologies in the restoration industry and our members have been trained by the manufacturers to learn the most up to date installation procedures the industry has to offer.</p>
                        <p>Our team will gladly provide you proof of our certifications with the manufacturers. The owner of <strong>S.W.A.T. Roofing &amp; Contracting</strong> has the distinguished honor of being part of the <i>Professional Roofers Advisory Council</i>. This organization is comprised of the leaders in the roofing industry.</p>
-                   </div>
-                   <div class="col-md-4 col-sm-6">
-                       <h2>our history</h2>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">1998 - </span>
-                           </div>
-                           <div class="box_cnt ">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                   incididunt ut laboret dolore magna aliquat enimad minim veniam quis.
-                                   Nostrud exercitation ullamco laboris nisi ut aliquip
-                                   ex ea commodo consequat. </p>
-                           </div>
-                       </div>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">2003 - </span>
-                           </div>
-                           <div class="box_cnt">
-                               <p>Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta.
-                                   Fusce suscipit varius mi. </p>
-                           </div>
-                       </div>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">2005 - </span>
-                           </div>
-                           <div class="box_cnt ">
-                               <p>Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis
-                                   natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                           </div>
-                       </div>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">2008 - </span>
-                           </div>
-                           <div class="box_cnt ">
-                               <p>Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis
-                                   parturient montes, nascetur ridiculus mus.</p>
-                           </div>
-                       </div>
-                       <div class="box text-left">
-                           <div class="box_left">
-                               <span class="text-primary">2012 - </span>
-                           </div>
-                           <div class="box_cnt ">
-                               <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus
-                                   mus.</p>
-                           </div>
-                       </div>
-
                    </div>
                    <div class="col-md-4 col-sm-12">
                        <h2>opportunities</h2>
