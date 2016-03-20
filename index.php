@@ -141,14 +141,14 @@
             <p class="small uppercase brdr text-md-left offset-2">Satisfied Customers Are Our Greatest Reward</p>
             <div class="row text-left offset-0">
               <ul class="marked-list col-xs-6">
-                <li><a href="#">We care about our customers</a></li>
+                <li>We care about our customers</li>
                 <li><a href="#">Qualified for the job</a></li>
                 <li><a href="#">Guaranteed Satisfaction</a></li>
                 <li><a href="#">FREE roof inspection</a></li>
                 <li><a href="#">Conduct business with honor and integrity</a></li>
               </ul>
               <ul class="marked-list col-xs-6">
-                <li><a href="#">Update with technology for roofing</a></li>
+                <li><a href="#">Up to date technology for roofing</a></li>
                 <li><a href="#">State-of-the-art materials</a></li>
                 <li><a href="#">Active in the community</a></li>
                 <li><a href="#">24 Hour Emergency Service</a></li>
