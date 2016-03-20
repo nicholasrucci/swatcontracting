@@ -87,52 +87,6 @@
            </div>
        </section>
         <!--End who we are-->
-        <section class="well-md bg-default-variant-1 text-md-left">
-            <div class="container">
-                <h3>meet our team</h3>
-                <p class="small uppercase brdr offset-2">exercitationem ullam corporis</p>
-
-                <div class="row flow-offset">
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="product">
-                            <img src="images/page2_img-02.jpg" alt=""/>
-                            <div class="product__cnt">
-                                <a href="#" class="small uppercase">Mark Johnson</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="product">
-                            <img src="images/page2_img-03.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <a href="#" class="small uppercase">Sam Kromstain</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="product">
-                            <img src="images/page2_img-04.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <a href="#" class="small uppercase">Anete Puga</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-3 col-xs-6">
-                        <div class="product">
-                            <img src="images/page2_img-05.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <a href="#" class="small uppercase">Bradley Grosh</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--End who we are-->
-
         <!--Start advantages-->
         <section class="well-md">
             <div class="container">
