@@ -81,106 +81,22 @@
             <div class="container">
                 <h2>our services</h2>
                 <div class="row flow-offset ">
-                    <div class="col-sm-6 col-md-4 ">
+                    <div class="col-sm-6 col-md-6 ">
                         <div class="product product--1">
-                            <img src="images/page3_img-01.jpg" alt=""/>
+                            <img src="images/bbbroof.jpg" alt=""/>
                             <div class="product__cnt">
-                                <h5><a href="#">excepturi sint occaecati</a></h5>
-                                <p class="text-primary uppercase small">Lorem ipsum dolor sit amet, consectetur</p>
+                                <h5><a href="#">Residential</a></h5>
+                                <p class="text-primary uppercase small"><strong>S.W.A.T. Roofing &amp; Contracting</strong> offers an extensive list of roofing and contracting services to our residential clients. </p>
                                 <span class="icon icon-default-sm"></span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-4 ">
+                    <div class="col-sm-6 col-md-6 ">
                         <div class="product product--1">
-                            <img src="images/page3_img-02.jpg" alt=""/>
-
+                            <img src="images/commercialbbb.jpg" alt=""/>
                             <div class="product__cnt">
-                                <h5><a href="#">Mauris accumsan nulla</a></h5>
-                                <p class="text-primary uppercase small">Lorem ipsum dolor sit amet, consectetur</p>
-                                <span class="icon icon-default-sm"></span>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4 col-sm-clear col-md-release">
-                        <div class="product product--1">
-                            <img src="images/page3_img-03.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <h5><a href="#">Lacinia fermentum</a></h5>
-                                <p class="text-primary uppercase small">Lorem ipsum dolor sit amet, consectetur</p>
-                                <span class="icon icon-default-sm"></span>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4 col-md-clear">
-                        <div class="product product--1">
-                            <img src="images/page3_img-04.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <h5><a href="#">Donec porta diam eu massa</a></h5>
-                                <p class="text-primary uppercase small">Lorem ipsum dolor sit amet, consectetur</p>
-                                <span class="icon icon-default-sm"></span>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4 col-sm-clear col-md-release">
-                        <div class="product product--1">
-                            <img src="images/page3_img-05.jpg" alt=""/>
-                            <div class="product__cnt">
-                                <h5><a href="#">Quisque diam lorem</a></h5>
-                                <p class="text-primary uppercase small">Lorem ipsum dolor sit amet, consectetur</p>
-                                <span class="icon icon-default-sm"></span>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4 ">
-                        <div class="product product--1">
-                            <img src="images/page3_img-06.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <h5><a href="#">In faucibus orci luctus</a></h5>
-                                <p class="text-primary uppercase small">Lorem ipsum dolor sit amet, consectetur</p>
-                                <span class="icon icon-default-sm"></span>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4 col-sm-clear">
-                        <div class="product product--1">
-                            <img src="images/page3_img-07.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <h5><a href="#">Aenean nec eros</a></h5>
-                                <p class="text-primary uppercase small">Lorem ipsum dolor sit amet, consectetur</p>
-                                <span class="icon icon-default-sm"></span>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4 ">
-                        <div class="product product--1">
-                            <img src="images/page3_img-08.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <h5><a href="#">Etiam cursus leo vel metus</a></h5>
-                                <p class="text-primary uppercase small">Lorem ipsum dolor sit amet, consectetur</p>
-                                <span class="icon icon-default-sm"></span>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-4 col-sm-clear col-md-release">
-                        <div class="product product--1">
-                            <img src="images/page3_img-09.jpg" alt=""/>
-
-                            <div class="product__cnt">
-                                <h5><a href="#">Lorem ipsum dolor</a></h5>
-                                <p class="text-primary uppercase small">Lorem ipsum dolor sit amet, consectetur</p>
+                                <h5><a href="#">Commercial</a></h5>
+                                <p class="text-primary uppercase small"><strong>S.W.A.T. Roofing &amp; Contracting</strong> offers comple roofing services and repair including commercial, industrial, municipal and more! </p>
                                 <span class="icon icon-default-sm"></span>
                             </div>
                         </div>
@@ -193,36 +109,12 @@
         <!--Best proposals-->
         <section class="well-md bg-default-variant-1 text-md-left">
             <div class="container">
-                <h3>best proposals</h3>
-                <p class="small uppercase brdr offset-2">exercitationem ullam corporis</p>
-                <div class="row flow-offset">
-                    <div class="col-md-6">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <img src="images/page3_img-10.jpg" alt=""/>
-                            </div>
-                            <div class="col-md-6">
-                                <h5 class="uppercase text-secondary offset-2">In pede mi, aliquet sit amet
-                                    euismod in,auctor</h5>
-                                <p class="offset-3">Ut enim ad minim veniam. Aquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>
-                                <a href="#" class="btn btn-md btn-primary">more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <img src="images/page3_img-11.jpg" alt=""/>
-                            </div>
-                            <div class="col-md-6">
-                                <h5 class="uppercase text-secondary offset-2">Sed in lacus ut enim
-                                    adipiscing aliquet</h5>
-                                <p class="offset-3">Ut enim ad minim veniam. Aquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.</p>
-                                <a href="#" class="btn btn-md btn-primary">more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+              <div class="col-sm-6 col-md-8">
+                <h3>Contact us for a free estimate!</h3>
+              </div>
+              <div class="col-sm-6 col-md-4">
+                <button class="btn btn-primary btn-md mfProgress">Get your free estimate now!</button>
+              </div>
             </div>
         </section>
         <!--End best proposals-->
