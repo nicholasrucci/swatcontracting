@@ -81,10 +81,11 @@
         <!--Residential projects-->
         <section class="well-xl">
             <div class="container">
-                <h2 class="text-md-left">residential projects</h2>
+                <h2 class="text-md-left">Commercial Services</h2>
                 <div class="row flow-offset">
                     <div class="col-md-4 col-sm-6">
                         <ul class="marked-list offset-0 text-left">
+                          <li></li>
                         </ul>
                     </div>
                     <div class="col-md-4 col-sm-6">
