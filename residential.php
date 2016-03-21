@@ -14,7 +14,6 @@
                     <li><a class="icon icon-md icon-secondary fa-facebook" href="#"></a></li>
                     <li><a class="icon icon-md icon-secondary fa-google-plus" href="#"></a></li>
                     <li><a class="icon icon-md icon-secondary fa-twitter" href="#"></a></li>
-                    <li><a class="icon icon-md icon-secondary fa-pinterest" href="#"></a></li>
                     <li><a class="icon icon-md icon-secondary fa-linkedin" href="#"></a></li>
                 </ul>
             </div>
