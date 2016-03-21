@@ -80,9 +80,17 @@
         <!--Residential projects-->
         <section class="well-xl">
             <div class="container">
-                <h2 class="text-md-left">residential services</h2>
+              <h2 class="text-md-left">residential services</h2>
+              <div class="row flow-offset">
+                    <div class="col-md-7 col-sm-6">
+                      <img src="images/neighborhood.jpg" alt=""/><br /><br />
+                    </div>
+                    <div class="col-md-5 col-sm-6">
+                       <p style="text-align:left;"><strong>S.W.A.T. Roofing &amp;Contracting</strong> offers an extensive list of roofing and contracting services to our residential clients. We specialize in roof construction, roof replacement, roof repairs due to hail/wind/storm damage restoration for roofing, or old roof replacements due to simple wear and tear. We are focused on providing professional storm damage repair and roof restoration services for residential homeowners affected by natural disasters in the Dallas/Fort Worth Metroplex as well as Nationwide.</p> 
+                    </div>
+                </div>
                 <div class="row flow-offset">
-                    <div class="col-md-6 col-sm-6">
+                    <div class="col-md-4 col-sm-6">
                         <ul class="marked-list offset-0 text-left">
                             <h5>Roofing</h5>
                             <li>Composition Shingles, Metal, Woodshake, Tile, Copper, Living Roofs, Cool Coatings, Impact Resistant Roofs, TPO, Single Ply, Multi-Ply, Metal Shake, Green Roofs, Synthetic Roofs, Foam Roofs</li>
@@ -107,7 +115,6 @@
                         </ul>
                     </div>
                     <div class="col-md-6 col-sm-6">
-                        <img src="images/neighborhood.jpg" alt=""/><br /><br />
                         <ul class="marked-list offset-0 text-left">
                             <h5>Painting</h5>
                             <li>Painting and/or stained by professionals</li><br />
