@@ -84,21 +84,29 @@
                 <div class="row flow-offset">
                     <div class="col-md-4 col-sm-6">
                         <ul class="marked-list offset-0 text-left">
-                            <li><a href="#">Pilings Pinned to Ledge</a></li>
-                            <li><a href="#">Pier with Steel Pilings</a></li>
-                            <li><a href="#">Steel Framed Pier</a></li>
-                            <li><a href="#">Aluminum Pier</a></li>
-                            <li><a href="#">Community Pier</a></li>
-                            <li><a href="#">Project With No Fixed Pier</a></li>
-                            <li><a href="#">Exposed Island Project</a></li>
-                            <li><a href="#">Rebuild of Concrete Floats</a></li>
-                            <li><a href="#">One of Five Piers Built in Tucker's Cove</a></li>
-                            <li><a href="#">Arched Ramp</a></li>
-                            <li><a href="#">Several Piers Built on the Cocheco River</a></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
                         </ul>
                     </div>
                     <div class="col-md-4 col-sm-6">
-                        <img src="images/page4_img-01.jpg" alt=""/>
+                        <ul class="marked-list offset-0 text-left">
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <img src="images/page4_img-02.jpg" alt=""/>
