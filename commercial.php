@@ -85,17 +85,6 @@
                 <div class="row flow-offset">
                     <div class="col-md-4 col-sm-6">
                         <ul class="marked-list offset-0 text-left">
-                            <li><a href="#">Pilings Pinned to Ledge</a></li>
-                            <li><a href="#">Pier with Steel Pilings</a></li>
-                            <li><a href="#">Steel Framed Pier</a></li>
-                            <li><a href="#">Aluminum Pier</a></li>
-                            <li><a href="#">Community Pier</a></li>
-                            <li><a href="#">Project With No Fixed Pier</a></li>
-                            <li><a href="#">Exposed Island Project</a></li>
-                            <li><a href="#">Rebuild of Concrete Floats</a></li>
-                            <li><a href="#">One of Five Piers Built in Tucker's Cove</a></li>
-                            <li><a href="#">Arched Ramp</a></li>
-                            <li><a href="#">Several Piers Built on the Cocheco River</a></li>
                         </ul>
                     </div>
                     <div class="col-md-4 col-sm-6">
@@ -108,62 +97,6 @@
             </div>
         </section>
         <!--End residential projects-->
-
-        <!--Residential projects-->
-        <section>
-            <div class="container">
-                <h2 class="text-center text-md-left">commercial projects</h2>
-                <div class="row flow-offset">
-                    <div class="col-md-4 col-sm-6">
-                        <ul class="marked-list offset-0 text-left">
-                            <li><a href="#">Canoe/Kayak Dock - Portsmouth, NH</a></li>
-                            <li><a href="#">North Pier - Portsmouth, NH</a></li>
-                            <li><a href="#">Observation Pier - Portsmouth, NH</a></li>
-                            <li><a href="#">Pile Replacement - Portsmouth, NH</a></li>
-                            <li><a href="#">Boat Launch - Portsmouth, NH</a></li>
-                            <li><a href="#">Freedom Boat Club - Portsmouth, NH</a></li>
-                            <li><a href="#">Commercial Dock System - Kittery, ME</a></li>
-                            <li><a href="#">Creek Farm - Portsmouth, NH</a></li>
-                            <li><a href="#">Kittery Point Yacht Yard - Eliot, ME</a></li>
-                            <li><a href="#">Johnson Pier - Portsmouth, NH</a></li>
-                            <li><a href="#">Sea Cabins - Kittery Point, ME</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/page4_img-03.jpg" alt=""/>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/page4_img-04.jpg" alt=""/>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--End residential projects-->
-
-        <!--Shorefront stabilization projects-->
-        <section class="well-md well-md--inset-1">
-            <div class="container">
-                <h2 class="text-center text-md-left">Shorefront stabilization projects</h2>
-                <div class="row flow-offset">
-                    <div class="col-sm-6 col-md-4">
-                        <ul class="marked-list offset-0 text-left">
-                            <li><a href="#">Noble Island - Portsmouth, NH</a></li>
-                            <li><a href="#">Back Channel - Portsmouth, NH</a></li>
-                            <li><a href="#">Great Bay - Greenland, NH</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <img src="images/page4_img-05.jpg" alt=""/>
-                    </div>
-                    <div class="col-sm-6 col-md-4 pull-sm-right">
-                        <img src="images/page4_img-06.jpg" alt=""/>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--End shorefront stabilization projects-->
-
-
 
     </main>
 
