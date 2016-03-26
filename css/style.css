@@ -394,6 +394,7 @@ h5 + .offset-3 {
 .well-lg {
   padding-top: 50px;
   padding-bottom: 48px;
+  background-color: #d1d1d1;
 }
 @media (min-width: 768px) {
   .well-lg {
@@ -403,6 +404,7 @@ h5 + .offset-3 {
 .well-xl {
   padding-top: 45px;
   padding-bottom: 30px;
+  background-color: #d1d1d1;
 }
 @media (min-width: 768px) {
   .well-xl {
