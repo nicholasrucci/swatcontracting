@@ -44,16 +44,20 @@
                             <a href="./">Home</a>
                         </li>
                         <li class="active">
-                            <a href="index-1.php">About</a>
+                            <a href="about.php">About</a>
                         </li>
                         <li>
-                            <a href="index-2.php">Services</a>
+                            <a href="services.php">Services</a>
+                            <ul>
+                              <li><a href="residential.php">Residential</a></li>
+                              <li><a href="commercial.php">Commercial</a></li>
+                            </ul>
                         </li>
                         <li>
-                            <a href="index-3.php">Projects</a>
+                            <a href="projects.php">Projects</a>
                         </li>
                         <li>
-                            <a href="index-4.php">Contacts</a>
+                            <a href="contact.php">Contacts</a>
                         </li>
                     </ul>
                     <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
@@ -94,7 +98,7 @@
                 <div class="row text-md-left flow-offset">
                     <div class="col-md-4 col-sm-6 ">
                         <div class="quote">
-                            <p><q>"I am writing to express my heartfelt gratitude for the salesman, staff, and crew of SWAT Contracting. was bombarded by roofing companies to fix my roof & SWAT stood out above all the rest. Gabe Cortez was the first to contact me from SWAT. He was very courteous and understanding of my needs. He was also very professional - his uniform and presentation were the top of the line. Thank you for all the time you put into making this process so easy. The crew that installed my beautiful, new roof were prompt, courteous &amp; VERY professional as well. When they were finished, all trash debris was gone - no nails were left in my yard."</q>
+                            <p><q>I am writing to express my heartfelt gratitude for the salesman, staff, and crew of SWAT Contracting. was bombarded by roofing companies to fix my roof & SWAT stood out above all the rest. Gabe Cortez was the first to contact me from SWAT. He was very courteous and understanding of my needs. He was also very professional - his uniform and presentation were the top of the line. Thank you for all the time you put into making this process so easy. The crew that installed my beautiful, new roof were prompt, courteous &amp; VERY professional as well. When they were finished, all trash debris was gone - no nails were left in my yard.</q>
                             </p>
                             <p><cite class="uppercase small">Mrs. J.W.G</cite><br>Fort Worth, TX</p>
                         </div>

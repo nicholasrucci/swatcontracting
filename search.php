@@ -77,7 +77,7 @@
                             <a href="./">Home</a>
                         </li>
                         <li >
-                            <a href="index-1.html">About</a>
+                            <a href="about.html">About</a>
                             <ul>
                                 <li>
                                     <a href="#">History</a>
@@ -102,13 +102,13 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="index-2.html">Services</a>
+                            <a href="services.html">Services</a>
                         </li>
                         <li>
-                            <a href="index-3.html">Projects</a>
+                            <a href="projects.html">Projects</a>
                         </li>
                         <li>
-                            <a href="index-4.html">Contacts</a>
+                            <a href="contact.html">Contacts</a>
                         </li>
                     </ul>
                     <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
@@ -197,7 +197,7 @@
              <h1 class="brand_name"> <a href="./">mariner</a> </h1>
              <div class="copyright">
                � <span id="copyright-year"></span>
-               <a href="index-5.html">| Privacy Policy</a>
+               <a href="privacy_policy.html">| Privacy Policy</a>
              </div>
            </div>
          </div>

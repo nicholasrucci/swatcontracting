@@ -53,16 +53,20 @@
                 <a href="./">Home</a>
               </li>
               <li>
-                <a href="index-1.php">About</a>
+                <a href="about.php">About</a>
               </li>
               <li>
-                <a href="index-2.php">Services</a>
+                <a href="services.php">Services</a>
+                  <ul>
+                    <li><a href="residential.php">Residential</a></li>
+                    <li><a href="commercial.php">Commercial</a></li>
+                  </ul>
               </li>
               <li>
-                <a href="index-3.php">Projects</a>
+                <a href="projects.php">Projects</a>
               </li>
               <li>
-                <a href="index-4.php">Contacts</a>
+                <a href="contact.php">Contacts</a>
               </li>
             </ul>
             <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
@@ -118,17 +122,17 @@
             <p class="small uppercase brdr text-md-left offset-2">Complete turnkey contracting and restoration services</p>
             <div class="row text-left offset-0">
               <ul class="marked-list col-xs-6 ">
-                <li><a href="#">Roofing</a></li>
-                <li><a href="#">Gutters</a></li>
-                <li><a href="#">Siding</a></li>
-                <li><a href="#">Painting</a></li>
-                <li><a href="#">Windows<a></li>
+                <li>Roofing</li>
+                <li>Gutters</li>
+                <li>Siding</li>
+                <li>Painting</li>
+                <li>Windows</li>
               </ul>
               <ul class="marked-list col-xs-6">
-                <li><a href="#">Emergency Services</a></li>
-                <li><a href="#">Fencing</a></li>
-                <li><a href="#">Insulation</a></li>
-                <li><a href="#">Interior</a></li>
+                <li>Emergency Services</li>
+                <li>Fencing</li>
+                <li>Insulation</li>
+                <li>Interior</li>
               </ul>
             </div>
           </div>
@@ -137,17 +141,17 @@
             <p class="small uppercase brdr text-md-left offset-2">Satisfied Customers Are Our Greatest Reward</p>
             <div class="row text-left offset-0">
               <ul class="marked-list col-xs-6">
-                <li><a href="#">We care about our customers</a></li>
-                <li><a href="#">Qualified for the job</a></li>
-                <li><a href="#">Guaranteed Satisfaction</a></li>
-                <li><a href="#">FREE roof inspection</a></li>
-                <li><a href="#">Conduct business with honor and integrity</a></li>
+                <li>We care about our customers</li>
+                <li>Qualified for the job</li>
+                <li>Guaranteed Satisfaction</li>
+                <li>FREE roof inspection</li>
+                <li>Conduct business with honor and integrity</li>
               </ul>
               <ul class="marked-list col-xs-6">
-                <li><a href="#">Update with technology for roofing</a></li>
-                <li><a href="#">State-of-the-art materials</a></li>
-                <li><a href="#">Active in the community</a></li>
-                <li><a href="#">24 Hour Emergency Service</a></li>
+                <li>Up to date technology for roofing</li>
+                <li>State-of-the-art materials</li>
+                <li>Active in the community</li>
+                <li>24 Hour Emergency Service</li>
               </ul>
             </div>
           </div>
