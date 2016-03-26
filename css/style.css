@@ -380,6 +380,7 @@ h5 + .offset-3 {
 .well-md {
   padding-top: 60px;
   padding-bottom: 60px;
+  background-color: #d1d1d1;
 }
 @media (min-width: 768px) {
   .well-md {
@@ -976,7 +977,7 @@ strong {
   background: #d1d1d1;
 }
 .bg-default-variant-1 h1, .bg-default-variant-1 h2, .bg-default-variant-1 h3, .bg-default-variant-1 h4, .bg-default-variant-1 h5, .bg-default-variant-1 h6, .bg-default-variant-1 .heading-1, .bg-default-variant-1 .heading-2, .bg-default-variant-1 .heading-3, .bg-default-variant-1 .heading-4, .bg-default-variant-1 .heading-5, .bg-default-variant-1 .heading-6 {
-  color: #c0251b;
+  color: black;
 }
 .bg-default-variant-1 .text-secondary {
   color: #091824;
