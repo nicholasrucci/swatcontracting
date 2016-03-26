@@ -55,7 +55,7 @@
                             </ul>
                         </li>
                         <li >
-                            <a href="projects.php">Projects</a>
+                            <a href="employment.php">Employment</a>
                         </li>
                         <li class="active">
                             <a href="contact.php">Contact</a>
@@ -79,7 +79,7 @@
     =========================================================-->
     <main class="text-center">
         <!--Map-->
-        <section class="well-xl well-xl--inset-1">
+        <section class="well-xl well-xl--inset-1 bg-image-1">
             <div class="container">
                 <div class="map">
                     <div id="google-map" class="map_model map_model--1"></div>
