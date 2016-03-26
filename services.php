@@ -24,10 +24,9 @@
                 <span class="bsh"></span>
 
                 <h1 class="rd-navbar-brand_name">
-                    <a href="./">S.W.A.T.</a>
+                  <a href="./"><img src="images/Swat_Logo.jpg" alt="Swat Contracting Logo" /></a>
                 </h1>
-
-                <p class="rd-navbar-brand_slogan">Roofing &amp; Contracting</p>
+                <!-- <p class="rd-navbar-brand_slogan">Roofing &amp; Contracting</p> -->
             </div>
             <section class="well-sm text-sm-right">
                 <dl>
