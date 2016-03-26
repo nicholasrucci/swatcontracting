@@ -1,7 +1,7 @@
 (function($,undefined){
-	var 
+	var
 		def={
-			stuckClass:'isStuck'			
+			stuckClass:'isStuck'
 		}
 		,doc=$(document),anim = false;
 
@@ -12,17 +12,17 @@
 			var $this=$(this)
 				,posY//=$this.offset().top+$this.outerHeight()
 				,isStuck=false
-				,clone=$this.clone().appendTo($this.parent()).addClass(opt.stuckClass)
+				,clone=$this.clone().css({visibility:'hidden'}).appendTo($this.parent()).addClass(opt.stuckClass)
 				,height//=$this.outerHeight()
 				,stuckedHeight=clone.outerHeight()
 				,opened//=$.cookie&&$.cookie('panel1')==='opened'
 				,tmr
 
 			$(window).resize(function(){
-				clearTimeout(tmr)				
+				clearTimeout(tmr)
 				clone.css({top:isStuck?0:-stuckedHeight,visibility:isStuck?'visible':'hidden'})
 				tmr=setTimeout(function(){
-					posY=$this.offset().top//+$this.outerHeight()				
+					posY=$this.offset().top//+$this.outerHeight()
 					height=$this.outerHeight()
 					stuckedHeight=clone.outerHeight()
 					opened=$.cookie&&$.cookie('panel1')==='opened'
@@ -32,8 +32,8 @@
 			}).resize()
 
 			clone.css({
-				position:'fixed'				
-				,width:'100%'
+				position:'fixed',
+				width:'100%'
 			})
 
 			$this
@@ -45,7 +45,7 @@
 					else
 						opened=true
 				})
-			
+
 			doc
 				.on('scroll',function(){
 					var scrollTop=doc.scrollTop()
@@ -60,10 +60,10 @@
 							},{
 
 							})
-							
+
 						isStuck=true
 					}
-					
+
 					if(scrollTop<posY+height&&isStuck){
 						$('.sf-menu ul').css('display', 'none');
 
@@ -83,11 +83,11 @@
 									clone.css({visibility:'hidden'})
 								}
 							});
-						
+
 						isStuck=false;
 
-					}			
-				})				
+					}
+				})
 				.trigger('scroll')
 		})
 	}
