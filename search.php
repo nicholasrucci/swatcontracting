@@ -108,7 +108,7 @@
                             <a href="projects.html">Projects</a>
                         </li>
                         <li>
-                            <a href="contact.html">Contacts</a>
+                            <a href="contact.html">Contact</a>
                         </li>
                     </ul>
                     <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
