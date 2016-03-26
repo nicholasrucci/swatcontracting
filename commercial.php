@@ -11,11 +11,11 @@
                     <li><a href="#">Call now for a FREE estimate</a></li>
                 </ul>
                 <ul class="inline-list text-right">
-                    <li><a class="icon icon-md icon-secondary fa-facebook" href="#"></a></li>
-                    <li><a class="icon icon-md icon-secondary fa-google-plus" href="#"></a></li>
-                    <li><a class="icon icon-md icon-secondary fa-twitter" href="#"></a></li>
-                    <li><a class="icon icon-md icon-secondary fa-pinterest" href="#"></a></li>
-                    <li><a class="icon icon-md icon-secondary fa-linkedin" href="#"></a></li>
+                  <li><a class="icon icon-md icon-secondary fa-facebook" href="https://www.facebook.com/pages/SWAT-Contracting/229951837082509" target="_blank"></a></li>
+                  <!-- li><a class="icon icon-md icon-secondary fa-google-plus" href="#"></a></li -->
+                  <li><a class="icon icon-md icon-secondary fa-twitter" href="https://twitter.com/SWATCONTRACTING" target="_blank"></a></li>
+                  <li><a class="icon icon-md icon-secondary fa-youtube" href="https://www.youtube.com/user/SWATContracting" target="_blank"></a></li>
+                  <li><a class="icon icon-md icon-secondary fa-linkedin" href="https://www.linkedin.com/in/andrew-dumas-872a3940" target="_blank"></a></li>
                 </ul>
             </div>
         </div>
@@ -100,7 +100,7 @@
                       </ul>
                     </div>
                 </div>
-              <h3 class="text-md-left">Details</h3> 
+              <h3 class="text-md-left">Details</h3>
               <div class="row flow-offset">
                     <div class="col-md-6 col-sm-6">
                       <ul class="marked-list offset-0 text-left">
