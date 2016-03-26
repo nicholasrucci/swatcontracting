@@ -116,7 +116,7 @@
                 <h3>Contact us for a free estimate!</h3>
               </div>
               <div class="col-sm-6 col-md-4">
-                <button class="btn btn-primary btn-md mfProgress">Get your free estimate now!</button>
+                <a href="contact.php"><button class="btn btn-primary btn-md mfProgress">Get your free estimate now!</button></a>
               </div>
             </div>
         </section>
