@@ -45,16 +45,20 @@
                             <a href="./">Home</a>
                         </li>
                         <li >
-                            <a href="index-1.php">About</a>
+                            <a href="about.php">About</a>
                         </li>
                         <li>
-                            <a href="index-2.php">Services</a>
+                            <a href="services.php">Services</a>
+                            <ul>
+                              <li><a href="residential.php">Residential</a></li>
+                              <li><a href="commercial.php">Commercial</a></li>
+                            </ul>
                         </li>
                         <li >
-                            <a href="index-3.php">Projects</a>
+                            <a href="projects.php">Projects</a>
                         </li>
                         <li>
-                            <a href="index-4.php">Contacts</a>
+                            <a href="contact.php">Contacts</a>
                         </li>
                     </ul>
                     <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
