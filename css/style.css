@@ -973,7 +973,7 @@ strong {
 * @subsection Backgrounds
 */
 .bg-default-variant-1 {
-  background: #f7f7f7;
+  background: #d1d1d1;
 }
 .bg-default-variant-1 h1, .bg-default-variant-1 h2, .bg-default-variant-1 h3, .bg-default-variant-1 h4, .bg-default-variant-1 h5, .bg-default-variant-1 h6, .bg-default-variant-1 .heading-1, .bg-default-variant-1 .heading-2, .bg-default-variant-1 .heading-3, .bg-default-variant-1 .heading-4, .bg-default-variant-1 .heading-5, .bg-default-variant-1 .heading-6 {
   color: #c0251b;
