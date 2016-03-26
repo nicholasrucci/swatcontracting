@@ -886,9 +886,9 @@ strong {
 */
 .rd-navbar-brand {
   text-transform: uppercase;
-  background: #c0251b;
-  padding-top: 10px;
-  padding-bottom: 20px;
+  /*background: #c0251b;*/
+  /*padding-top: 10px;
+  padding-bottom: 20px;*/
   z-index: 1;
 }
 @media (min-width: 768px) {
@@ -896,12 +896,12 @@ strong {
     display: inline-block;
     position: absolute;
     left: 0;
-    padding: 6px 6px 16px 40px;
+    /*padding: 6px 6px 16px 40px;*/
   }
 }
 @media (min-width: 480px) {
   .rd-navbar-brand {
-    padding: 27px 25px 32px 55px;
+    /*padding: 27px 25px 32px 55px;*/
     left: inherit;
     display: inline-block;
   }
