@@ -83,10 +83,24 @@
               <h2 class="text-md-left">residential services</h2>
               <div class="row flow-offset">
                     <div class="col-md-6 col-sm-6">
-                      <img src="images/neighborhood.jpg" alt=""/><br /><br />
-                    </div>
-                    <div class="col-md-6 col-sm-6">
+                        <img src="images/neighborhood.jpg" alt=""/><br /><br />
                         <ul class="marked-list offset-0 text-left">
+                            <h5>Painting</h5>
+                            <li>Painting and/or stained by professionals</li><br />
+                            <h5>Interior</h5>
+                            <li>Water-damaged patch work on walls and ceilings</li>
+                            <li>Acoustic Texture (such as popcorn)</li>
+                            <li>Crown Molding Replacement</li>
+                            <li>Applying Anti-Microbial Agent</li>
+                            <li>Hanging Drywall - ready for painting and/or texture</li><br />
+                            <h5>Siding</h5>
+                            <li>James Hardie</li>
+                            <li>Vinyl</li>
+                            <li>Wood</li>
+                        </ul>
+                   </div>
+                    <div class="col-md-6 col-sm-6">
+                         <ul class="marked-list offset-0 text-left">
                             <h5>Roofing</h5>
                             <li>Composition Shingles, Metal, Woodshake, Tile, Copper, Living Roofs, Cool Coatings, Impact Resistant Roofs, TPO, Single Ply, Multi-Ply, Metal Shake, Green Roofs, Synthetic Roofs, Foam Roofs</li>
                             <li>High Roofs</li>
@@ -109,48 +123,6 @@
                             <li>Increases your home's resale value</li><br />
                         </ul>
 
-                    </div>
-                </div>
-                <div class="row flow-offset">
-                    <div class="col-md-4 col-sm-6">
-                        <ul class="marked-list offset-0 text-left">
-                            <h5>Roofing</h5>
-                            <li>Composition Shingles, Metal, Woodshake, Tile, Copper, Living Roofs, Cool Coatings, Impact Resistant Roofs, TPO, Single Ply, Multi-Ply, Metal Shake, Green Roofs, Synthetic Roofs, Foam Roofs</li>
-                            <li>High Roofs</li>
-                            <li>Steep Slope</li>
-                            <li>Low Slope</li>
-                            <li>Flat Applications</li><br />
-                            <h5>Windows</h5>
-                            <li>Vinyl Bead Gazing</li>
-                            <li>Replace Window Screens</li><br />
-                            <h5>Emergency Services</h5>
-                            <li>24 Hour</li>
-                            <li>Temporary Cover ups</li><br />
-                            <h5>Gutters</h5>
-                            <li>Standard &amp; Oversized</li><br />
-                            <h5>Radiant Barrier Insulation</h5>
-                            <li>Reduces your air conditioning-related electric bills by 10-15% or more annually</li>
-                            <li>Keeps your home cooler in summer and warmer in winter, and equalizes rooms that are always hotter or colder than the rest of your house</li>
-                            <li>Increases the lifespan and effectiveness of your air conditioning unit </li>
-                            <li>Makes your existing insulation work more effectively</li>
-                            <li>Increases your home's resale value</li><br />
-                        </ul>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                        <ul class="marked-list offset-0 text-left">
-                            <h5>Painting</h5>
-                            <li>Painting and/or stained by professionals</li><br />
-                            <h5>Interior</h5>
-                            <li>Water-damaged patch work on walls and ceilings</li>
-                            <li>Acoustic Texture (such as popcorn)</li>
-                            <li>Crown Molding Replacement</li>
-                            <li>Applying Anti-Microbial Agent</li>
-                            <li>Hanging Drywall - ready for painting and/or texture</li><br />
-                            <h5>Siding</h5>
-                            <li>James Hardie</li>
-                            <li>Vinyl</li>
-                            <li>Wood</li>
-                        </ul>
                     </div>
                 </div>
             </div>
