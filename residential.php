@@ -55,7 +55,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="projects.php">Projects</a>
+                            <a href="employment.php">Employment</a>
                         </li>
                         <li>
                             <a href="contact.php">Contact</a>
@@ -78,7 +78,7 @@
                               CONTENT
     =========================================================-->
     <main class="text-center">
-        <!--Residential projects-->
+        <!--Residential Employment-->
         <section class="well-xl">
             <div class="container">
               <h2 class="text-md-left">residential services</h2>
@@ -128,7 +128,7 @@
                 </div>
             </div>
         </section>
-        <!--End residential projects-->
+        <!--End residential Employment-->
     </main>
 
     <!--========================================================

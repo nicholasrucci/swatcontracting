@@ -55,7 +55,7 @@
                             </ul>
                         </li>
                         <li >
-                            <a href="projects.php">Projects</a>
+                            <a href="employment.php">Employment</a>
                         </li>
                         <li class="active">
                             <a href="contact.php">Contact</a>
