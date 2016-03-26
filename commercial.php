@@ -81,18 +81,38 @@
         <!--Residential projects-->
         <section class="well-xl">
             <div class="container">
-                <h2 class="text-md-left">Commercial Services</h2>
-                <div class="row flow-offset">
-                    <div class="col-md-4 col-sm-6">
-                        <ul class="marked-list offset-0 text-left">
-                          <li></li>
+              <h2 class="text-md-left">commercial services</h2>
+                <div class="row text-md-left flow-offset">
+                    <div class="col-md-6 col-sm-6 ">
+                        <img src="images/commercialbbb.jpg" alt=""/><br /><br />
+                    </div>
+                    <div class="col-md-6 col-sm-6 ">
+                      <ul class="marked-list offset-0 text-left">
+                          <h5><strong>S.W.A.T. Roofing &amp; Contracting</strong> provides complete roofing services and repair, such as:</h5><br />
+                          <li>Industrial</li>
+                          <li>Municipal</li>
+                          <li>Churches</li>
+                          <li>Sheet Metal</li>
+                          <li>TPO</li>
+                          <li>PVC</li>
+                          <li>EPDM</li>
+                          <li>Green Roofs</li>
+                      </ul>
+                    </div>
+                </div>
+              <h3 class="text-md-left">Details</h3> 
+              <div class="row flow-offset">
+                    <div class="col-md-6 col-sm-6">
+                      <ul class="marked-list offset-0 text-left">
+                        <li><strong>TPO</strong> membranes are single-ply roof membranes constructed from ethylene propylene rubber. They are designed to combine the durability of EPDM rubber with the proven performance of hot-air weldable seams. They have been tested as having excellent resistance to ozone, are algae-resistant, environmentally friendly and safe to install.</li>
+                        <li><strong>PVC</strong> roofing is highly reliable, and the reinforced PVC roofing membrane has even more attributes than regular PVC and other forms of roof sheathing. A PVC roofing membrane is a layer of sheathing that provides additional insulation, protection, and sound-deadening features, and is placed over an existing flat or shingled roof.</li>
+                      </ul>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                         <ul class="marked-list offset-0 text-left">
+                        <li><strong>EPDM</strong> is classified as a Thermoset material which means it is either fully-cured prior to being installed or that it cures during natural weathering after installation. EPDM roofs are single-ply membranes meaning there is only one ply of roofing material, not multiple plies laminated together.</li>
+                        <li><strong>Green roof</strong> systems are an extension of the existing roof which involves a high quality water proofing and root repellant system, a drainage system, filter cloth, a lightweight growing medium and plants.</li>
                         </ul>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/page4_img-01.jpg" alt=""/>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <img src="images/page4_img-02.jpg" alt=""/>
                     </div>
                 </div>
             </div>
