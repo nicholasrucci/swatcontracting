@@ -79,7 +79,7 @@
     =========================================================-->
     <main class="text-center">
         <!--Residential Employment-->
-        <section class="well-xl">
+        <section class="well-xl bg-image-1">
             <div class="container">
               <h2 class="text-md-left">residential services</h2>
               <div class="row flow-offset">
@@ -129,6 +129,17 @@
             </div>
         </section>
         <!--End residential Employment-->
+
+        <section class="well-md bg-default-variant-1 text-md-left">
+            <div class="container">
+              <div class="col-sm-6 col-md-8">
+                <h3>Contact us for a free estimate!</h3>
+              </div>
+              <div class="col-sm-6 col-md-4">
+                <button class="btn btn-primary btn-md mfProgress">Get your free estimate now!</button>
+              </div>
+            </div>
+        </section>
     </main>
 
     <!--========================================================
