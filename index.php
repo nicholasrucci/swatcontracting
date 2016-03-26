@@ -66,7 +66,7 @@
                 <a href="projects.php">Projects</a>
               </li>
               <li>
-                <a href="contact.php">Contacts</a>
+                <a href="contact.php">Contact</a>
               </li>
             </ul>
             <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
