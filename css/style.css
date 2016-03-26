@@ -380,6 +380,7 @@ h5 + .offset-3 {
 .well-md {
   padding-top: 60px;
   padding-bottom: 60px;
+  background-color: #d1d1d1;
 }
 @media (min-width: 768px) {
   .well-md {
@@ -393,6 +394,7 @@ h5 + .offset-3 {
 .well-lg {
   padding-top: 50px;
   padding-bottom: 48px;
+  background-color: #d1d1d1;
 }
 @media (min-width: 768px) {
   .well-lg {
@@ -402,6 +404,7 @@ h5 + .offset-3 {
 .well-xl {
   padding-top: 45px;
   padding-bottom: 30px;
+  background-color: #d1d1d1;
 }
 @media (min-width: 768px) {
   .well-xl {
@@ -696,7 +699,7 @@ strong {
   max-width: 370px;
   margin-left: auto;
   margin-right: auto;
-  background: #c0251b;
+  background-color: #1C1C1C;
   line-height: 20px;
   padding-top: 13px;
   padding-bottom: 16px;
@@ -886,7 +889,7 @@ strong {
 */
 .rd-navbar-brand {
   text-transform: uppercase;
-  /*background: #c0251b;*/
+  background-color: #1C1C1C;
   /*padding-top: 10px;
   padding-bottom: 20px;*/
   z-index: 1;
@@ -953,7 +956,7 @@ strong {
   transform: rotate(5deg);
 }
 .rd-navbar-brand .bsh {
-  background: #c0251b;
+  background-color: #1C1C1C;
   position: absolute;
   display: none;
   width: 100%;
@@ -973,21 +976,23 @@ strong {
 * @subsection Backgrounds
 */
 .bg-default-variant-1 {
-  background: #f7f7f7;
+  background: #d1d1d1;
 }
 .bg-default-variant-1 h1, .bg-default-variant-1 h2, .bg-default-variant-1 h3, .bg-default-variant-1 h4, .bg-default-variant-1 h5, .bg-default-variant-1 h6, .bg-default-variant-1 .heading-1, .bg-default-variant-1 .heading-2, .bg-default-variant-1 .heading-3, .bg-default-variant-1 .heading-4, .bg-default-variant-1 .heading-5, .bg-default-variant-1 .heading-6 {
-  color: #c0251b;
+  color: black;
 }
 .bg-default-variant-1 .text-secondary {
   color: #091824;
 }
 
 .bg-primary {
-  background: #c0251b;
+  background-color: #1C1C1C;
 }
 
 .bg-image-1 {
-  background: url(../images/bg-image1.jpg) no-repeat top center;
+  background-color: #1c1c1c;
+  border: none;
+  /*background: url(../images/bg-image1.jpg) no-repeat top center;*/
   background-size: cover;
   color: lightgray;
 }
@@ -1023,7 +1028,7 @@ strong {
 }
 .btn-primary {
   font-family: "Play", sans-serif;
-  background: #c0251b;
+  background-color: #1C1C1C;
   text-transform: uppercase;
   color: #fff;
 }
@@ -1349,7 +1354,7 @@ strong {
   color: #FFF;
   font-weight: 700;
   padding: 30px 20px 30px;
-  background: #c0251b;
+  background-color: #1C1C1C;
 }
 @media (min-width: 1200px) {
   .sf-menu > li > a {
@@ -1357,10 +1362,10 @@ strong {
   }
 }
 .sf-menu > li.sfHover > a, .sf-menu > li > a:hover {
-  background: url(../images/bg_head-01.jpg);
+  background-color: #484848;
 }
 .sf-menu > li.active > a {
-  background: url(../images/bg_head-01.jpg);
+  background-color: #595959;
 }
 
 .sf-menu ul {
@@ -1368,7 +1373,7 @@ strong {
   position: absolute;
   top: 100%;
   width: 200px;
-  background: url(../images/bg_head-01.jpg);
+  background-color: #323232;
   box-shadow: 0px 1px 1px 1px rgba(255, 255, 255, 0.176);
   z-index: 2;
   box-sizing: border-box;
@@ -1386,7 +1391,7 @@ strong {
   padding-left: 15px;
 }
 .sf-menu ul > li.sfHover > a, .sf-menu ul > li > a:hover {
-  background: #c0251b;
+  background-color: #1C1C1C;
 }
 
 .sf-menu ul ul {
@@ -1479,7 +1484,7 @@ strong {
   color: #2d2d2d;
 }
 .rd-mobilemenu_ul a:hover {
-  background: #c0251b;
+  background-color: #1C1C1C;
   color: #FFF;
 }
 .rd-mobilemenu_ul a .rd-submenu-toggle {
@@ -1632,7 +1637,7 @@ strong {
 * @subsection Stuck menu
 */
 .isStuck {
-  background: #c0251b;
+  background-color: #1C1C1C;
   z-index: 999;
 }
 .isStuck .sf-menu > li > a {
@@ -1666,7 +1671,7 @@ strong {
 }
 .toTop:hover {
   color: #fff;
-  background: #c0251b;
+  background-color: #1C1C1C;
   text-decoration: none;
 }
 
@@ -1786,7 +1791,7 @@ strong {
   text-transform: uppercase;
 }
 .search-form_liveout .search_link:hover {
-  background: #c0251b;
+  background-color: #1C1C1C;
   color: #f4b7b3;
 }
 .search-form_liveout .search_link:hover .search_title {
@@ -1810,7 +1815,7 @@ strong {
   padding: 10px 10px;
 }
 .search-form_liveout button:hover {
-  background: #c0251b;
+  background-color: #1C1C1C;
   color: #FFF;
 }
 input:focus + .search-form_liveout {
@@ -1893,14 +1898,14 @@ header {
   color: #fff;
 }
 header nav {
-  background: #c0251b;
+  background-color: #1C1C1C;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
   position: absolute;
   right: 15px;
   left: 15px;
 }
 header .top-part {
-  background: url(../images/bg_head-01.jpg);
+  background-color: #262626; /*url(../images/bg_head-01.jpg);*/
   padding-top: 3px;
   padding-bottom: 2px;
 }

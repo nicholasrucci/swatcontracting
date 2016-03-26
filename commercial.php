@@ -21,11 +21,11 @@
         </div>
         <div class="container">
             <div class="rd-navbar-brand">
-                <span class="bsh"></span>
-                <h1 class="rd-navbar-brand_name">
-                    <a href="./">S.W.A.T.</a>
-                </h1>
-                <p class="rd-navbar-brand_slogan">Roofing &amp; Contracting</p>
+              <span class="bsh"></span>
+              <h1 class="rd-navbar-brand_name">
+                <a href="./"><img src="images/Swat_Logo.jpg" alt="Swat Contracting Logo" /></a>
+              </h1>
+              <!-- <p class="rd-navbar-brand_slogan">Roofing &amp; Contracting</p> -->
             </div>
             <section class="well-sm text-sm-right">
                 <dl>
