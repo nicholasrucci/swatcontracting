@@ -988,6 +988,7 @@ strong {
 
 .bg-image-1 {
   background-color: #1c1c1c;
+  border: none;
   /*background: url(../images/bg-image1.jpg) no-repeat top center;*/
   background-size: cover;
   color: lightgray;
@@ -1358,10 +1359,10 @@ strong {
   }
 }
 .sf-menu > li.sfHover > a, .sf-menu > li > a:hover {
-  background: url(../images/bg_head-01.jpg);
+  background-color: #484848;
 }
 .sf-menu > li.active > a {
-  background: url(../images/bg_head-01.jpg);
+  background-color: #595959;
 }
 
 .sf-menu ul {
