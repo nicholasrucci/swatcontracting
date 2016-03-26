@@ -79,7 +79,7 @@
     =========================================================-->
     <main class="text-center">
         <!--How we can help-->
-        <section class="well-sm well-sm--inset-1 text-md-left">
+        <section class="well-sm well-sm--inset-1 text-md-left bg-image-1">
             <div class="container">
               <h2>Become a Member of S.W.A.T Roofing &amp; Contracting</h2>
                 <div class="row flow-offset">
@@ -136,6 +136,17 @@
             </div>
         </section>
         <!--End how we can help-->
+
+        <section class="well-md bg-default-variant-1 text-md-left">
+            <div class="container">
+              <div class="col-sm-6 col-md-8">
+                <h3>Contact us for a free estimate!</h3>
+              </div>
+              <div class="col-sm-6 col-md-4">
+               <a href="contact.php"><button class="btn btn-primary btn-md mfProgress">Get your free estimate now!</button></a>
+              </div>
+            </div>
+        </section>
 
     </main>
     <!--========================================================
