@@ -23,9 +23,9 @@
             <div class="rd-navbar-brand">
                 <span class="bsh"></span>
                 <h1 class="rd-navbar-brand_name">
-                    <a href="./">S.W.A.T.</a>
+                  <a href="./"><img src="images/Swat_Logo.jpg" alt="Swat Contracting Logo" /></a>
                 </h1>
-                <p class="rd-navbar-brand_slogan">Roofing &amp; Contracting</p>
+                <!-- <p class="rd-navbar-brand_slogan">Roofing &amp; Contracting</p> -->
             </div>
             <section class="well-sm text-sm-right">
                 <dl>
@@ -58,7 +58,7 @@
                             <a href="projects.php">Projects</a>
                         </li>
                         <li>
-                            <a href="contact.php">Contacts</a>
+                            <a href="contact.php">Contact</a>
                         </li>
                     </ul>
                     <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
