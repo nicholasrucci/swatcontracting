@@ -85,24 +85,24 @@
                 <h2>our services</h2>
                 <div class="row flow-offset ">
                     <div class="col-sm-6 col-md-6 ">
-                        <div class="product product--1">
-                            <img src="images/bbbroof.jpg" alt=""/>
+                        <div class="product product--1"><a href="residential.php">
+                            <img src="images/bbbroof.jpg" alt="Residential Roof Image"/>
                             <div class="product__cnt">
-                                <h5><a href="#">Residential</a></h5>
+                                <h5><a href="residential.php">Residential</a></h5>
                                 <p class="text-primary uppercase small"><strong>S.W.A.T. Roofing &amp; Contracting</strong> offers an extensive list of roofing and contracting services to our residential clients. </p>
                                 <span class="icon icon-default-sm"></span>
                             </div>
-                        </div>
+                        </a></div>
                     </div>
                     <div class="col-sm-6 col-md-6 ">
-                        <div class="product product--1">
-                            <img src="images/commercialbbb.jpg" alt=""/>
+                        <div class="product product--1"><a href="commercial.php">
+                            <img src="images/commercialbbb.jpg" alt="Commercial Roof Image"/>
                             <div class="product__cnt">
-                                <h5><a href="#">Commercial</a></h5>
+                                <h5><a href="commercial.php">Commercial</a></h5>
                                 <p class="text-primary uppercase small"><strong>S.W.A.T. Roofing &amp; Contracting</strong> offers comple roofing services and repair including commercial, industrial, municipal and more! </p>
                                 <span class="icon icon-default-sm"></span>
                             </div>
-                        </div>
+                        </a></div>
                     </div>
                 </div>
             </div>
