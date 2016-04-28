@@ -162,7 +162,6 @@
     <section class="well-md bg-default-variant-1">
       <div class="container">
         <h3 style="text-align: center;">Vendors We Use</h3>
-        <p style="text-align: center;" class="small uppercase brdr text-md-left offset-2">We use only the best materials</p>
         <div class="flex-container">
             <img class="vendor-logo" alt="gaf" src="images/gaf-logo.jpg">
             <img class="vendor-logo" alt="elk" src="images/elk-logo.png">
