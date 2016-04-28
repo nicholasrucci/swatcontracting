@@ -35,7 +35,7 @@
           <h1 class="brand_name"> <a href="./">SWAT Roofing &amp; Contracting</a></h1>
           <div class="copyright">
             © <span id="copyright-year"></span>
-            <span style="color: #959595;">| Dallas, Texas</span>
+            <span style="color: #959595;">| Fort Worth, Texas</span>
           </div>
         </div>
       </div>
