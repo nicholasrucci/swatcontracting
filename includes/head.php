@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="css/camera.css"/>
   <link rel="stylesheet" href="css/owl-carousel.css"/>
   <link rel="stylesheet" href="css/google-map.css"/>
+  <link rel="stylesheet" href="css/flexbox.css"/>
   <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet'>
   <link href='https://fonts.googleapis.com/css?family=Play:400,700' rel='stylesheet'>
   <link href='https://fonts.googleapis.com/css?family=Black+Ops+One' rel='stylesheet' type='text/css'>

@@ -1,0 +1,15 @@
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.vendor-logo {
+  width: auto;
+  height: 100px;
+}
+
+@media screen and (max-width: 768px) {
+  .flex-container {
+    flex-wrap: wrap;
+  }
+}
