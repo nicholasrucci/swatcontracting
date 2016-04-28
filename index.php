@@ -39,7 +39,7 @@
         <div data-src="images/page-1_slide01.jpg">
           <div class="camera_caption fadeIn">
             <div class="container">
-              <p>Specializing in<br><span>Roofing &amp; Contracting</span><br><span style="font-weight: lighter; font-size:27px; letter-spacing: 0px;">Licensed Insurance Adjusters on Staff</span></p>
+              <p>Specializing in<br><span>Roofing &amp; Contracting</span><br><span style="font-weight: lighter; font-size:27px; letter-spacing: 0px;">- Licensed Insurance Adjusters on Staff</span></p>
             </div>
           </div>
         </div>
