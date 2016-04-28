@@ -43,6 +43,27 @@
             </div>
           </div>
         </div>
+        <div data-src="images/home.jpg">
+          <div class="camera_caption fadeIn">
+            <div class="container">
+              <p>Specializing in<br><span>Roofing &amp; Contracting</span><br><span style="font-weight: lighter; font-size:27px; letter-spacing: 0px;">- Licensed Insurance Adjusters on Staff</span></p>
+            </div>
+          </div>
+        </div>
+        <div data-src="images/home3.jpg">
+          <div class="camera_caption fadeIn">
+            <div class="container">
+              <p>Specializing in<br><span>Roofing &amp; Contracting</span><br><span style="font-weight: lighter; font-size:27px; letter-spacing: 0px;">- Licensed Insurance Adjusters on Staff</span></p>
+            </div>
+          </div>
+        </div>
+        <div data-src="images/home4.jpg">
+          <div class="camera_caption fadeIn">
+            <div class="container">
+              <p>Specializing in<br><span>Roofing &amp; Contracting</span><br><span style="font-weight: lighter; font-size:27px; letter-spacing: 0px;">- Licensed Insurance Adjusters on Staff</span></p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <div id="stuck_container" class="stuck_container">
