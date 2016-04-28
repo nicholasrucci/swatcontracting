@@ -8,7 +8,7 @@
         <div class="top-part">
             <div class="container">
                 <ul class="inline-list top-menu">
-                    <li><a href="#">Call now for a FREE estimate</a></li>
+                    <li><a href="contact.php">Call now for a FREE inspection toll free 888.884.9380</a></li>
                 </ul>
                 <ul class="inline-list text-right">
                   <li><a class="icon icon-md icon-secondary fa-facebook" href="https://www.facebook.com/pages/SWAT-Contracting/229951837082509" target="_blank"></a></li>
@@ -55,7 +55,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="projects.php">Projects</a>
+                            <a href="employment.php">Employment</a>
                         </li>
                         <li>
                             <a href="contact.php">Contact</a>
@@ -78,7 +78,7 @@
                               CONTENT
     =========================================================-->
     <main class="text-center">
-        <!--Residential projects-->
+        <!--Residential Employment-->
         <section class="well-xl">
             <div class="container">
               <h2 class="text-md-left">commercial services</h2>
@@ -117,7 +117,7 @@
                 </div>
             </div>
         </section>
-        <!--End residential projects-->
+        <!--End residential Employment-->
 
     </main>
 

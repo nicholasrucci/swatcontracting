@@ -8,7 +8,7 @@
     <div class="top-part">
       <div class="container">
         <ul class="inline-list top-menu">
-          <li><a href="#">Call now for a FREE estimate</a></li>
+          <li><a href="contact.php">Call now for a FREE inspection toll free 888.884.9380</a></li>
         </ul>
         <ul class="inline-list text-right">
           <li><a class="icon icon-md icon-secondary fa-facebook" href="https://www.facebook.com/pages/SWAT-Contracting/229951837082509" target="_blank"></a></li>
@@ -39,7 +39,7 @@
         <div data-src="images/page-1_slide01.jpg">
           <div class="camera_caption fadeIn">
             <div class="container">
-              <p>Specializing in<br/><span>roofing &amp; Contracting</span></p>
+              <p><span>Severe Weather Assessment Team (S.W.A.T.) is Here to Help You</span> </p>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@
                   </ul>
               </li>
               <li>
-                <a href="projects.php">Projects</a>
+                <a href="employment.php">Employment</a>
               </li>
               <li>
                 <a href="contact.php">Contact</a>
@@ -123,13 +123,14 @@
             <div class="row text-left offset-0">
               <ul class="marked-list col-xs-6 ">
                 <li>Roofing</li>
+                <li>Restoration</li>
                 <li>Gutters</li>
                 <li>Siding</li>
                 <li>Painting</li>
-                <li>Windows</li>
               </ul>
               <ul class="marked-list col-xs-6">
                 <li>Emergency Services</li>
+                <li>Windows</li>
                 <li>Fencing</li>
                 <li>Insulation</li>
                 <li>Interior</li>
@@ -169,8 +170,8 @@
     <div class="map">
       <div id="google-map" class="map_model"></div>
       <ul class="map_locations">
-        <li data-x="-96.8191437" data-y="32.9307867">
-          <p>13455 Noel Rd #1000, Dallas, TX 75240 <span>888-884-9380</span></p>
+        <li data-x="-97.3118676" data-y="32.8225778">
+          <p>4500 Mercantile Plaza Fort Worth, TX 76137<span>888-884-9380</span></p>
         </li>
       </ul>
     </div>

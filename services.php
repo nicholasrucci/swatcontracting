@@ -8,7 +8,7 @@
         <div class="top-part">
             <div class="container">
                 <ul class="inline-list top-menu">
-                    <li><a href="#">Call now for a FREE estimate</a></li>
+                    <li><a href="contact.php">Call now for a FREE inspection toll free 888.884.9380</a></li>
                 </ul>
                 <ul class="inline-list text-right">
                   <li><a class="icon icon-md icon-secondary fa-facebook" href="https://www.facebook.com/pages/SWAT-Contracting/229951837082509" target="_blank"></a></li>
@@ -56,7 +56,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="projects.php">Projects</a>
+                            <a href="employment.php">Employment</a>
                         </li>
                         <li>
                             <a href="contact.php">Contact</a>
@@ -88,7 +88,7 @@
                         <div class="product product--1">
                             <img src="images/bbbroof.jpg" alt=""/>
                             <div class="product__cnt">
-                                <h5><a href="#">Residential</a></h5>
+                                <h5><a href="residential.php">Residential</a></h5>
                                 <p class="text-primary uppercase small"><strong>S.W.A.T. Roofing &amp; Contracting</strong> offers an extensive list of roofing and contracting services to our residential clients. </p>
                                 <span class="icon icon-default-sm"></span>
                             </div>
@@ -98,8 +98,8 @@
                         <div class="product product--1">
                             <img src="images/commercialbbb.jpg" alt=""/>
                             <div class="product__cnt">
-                                <h5><a href="#">Commercial</a></h5>
-                                <p class="text-primary uppercase small"><strong>S.W.A.T. Roofing &amp; Contracting</strong> offers comple roofing services and repair including commercial, industrial, municipal and more! </p>
+                                <h5><a href="commercial.php">Commercial</a></h5>
+                                <p class="text-primary uppercase small"><strong>S.W.A.T. Roofing &amp; Contracting</strong> offers complete roofing services and repair including commercial, industrial, municipal and more! </p>
                                 <span class="icon icon-default-sm"></span>
                             </div>
                         </div>
@@ -113,10 +113,10 @@
         <section class="well-md bg-default-variant-1 text-md-left">
             <div class="container">
               <div class="col-sm-6 col-md-8">
-                <h3>Contact us for a free estimate!</h3>
+                <h3>Contact us for a free inspection!</h3>
               </div>
               <div class="col-sm-6 col-md-4">
-                <button class="btn btn-primary btn-md mfProgress">Get your free estimate now!</button>
+                <a href="contact.php"><button class="btn btn-primary btn-md mfProgress">Get your free inspection now!</button></a>
               </div>
             </div>
         </section>

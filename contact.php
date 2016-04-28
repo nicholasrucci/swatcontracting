@@ -8,7 +8,7 @@
         <div class="top-part">
             <div class="container">
                 <ul class="inline-list top-menu">
-                    <li><a href="#">Call now for a FREE estimate</a></li>
+                    <li><a href="contact.php">Call now for a FREE inspection toll free 888.884.9380</a></li>
                 </ul>
                 <ul class="inline-list text-right">
                   <li><a class="icon icon-md icon-secondary fa-facebook" href="https://www.facebook.com/pages/SWAT-Contracting/229951837082509" target="_blank"></a></li>
@@ -55,7 +55,7 @@
                             </ul>
                         </li>
                         <li >
-                            <a href="projects.php">Projects</a>
+                            <a href="employment.php">Employment</a>
                         </li>
                         <li class="active">
                             <a href="contact.php">Contact</a>
@@ -78,23 +78,10 @@
                               CONTENT
     =========================================================-->
     <main class="text-center">
-        <!--Map-->
-        <section class="well-xl well-xl--inset-1">
-            <div class="container">
-                <div class="map">
-                    <div id="google-map" class="map_model map_model--1"></div>
-                    <ul class="map_locations">
-                      <li data-x="-96.8191437" data-y="32.9307867">
-                        <p>13455 Noel Rd #1000, Dallas, TX 75240 <span>888-884-9380</span></p>
-                      </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <!--End map-->
+
 
         <!--How we can help-->
-        <section class="well-md bg-default-variant-1">
+        <section class="well-xl well-xl--inset-1">
             <div class="container">
                 <div class="row flow-offset">
                     <div class="col-md-4 text-center text-md-left">
@@ -104,13 +91,11 @@
                             <address>
                                 <dl>
                                     <dt class="heading-5 text-secondary uppercase">Dallas Location:</dt>
-                                    <dd>Two Galleria Tower</dd>
-                                    <dd>13455 Noel Rd., Suite 1000</dd>
+                                    <dd>4500 Mercantile Plaza</dd>
+                                    <dd>Fort Worth, TX 76137</dd>
                                     <dt class="heading-5 text-secondary uppercase">Telephones:</dt>
                                     <dd><strong>Toll Free: </strong><br /><a href="callto:#">888.884.9380</a></dd>
-                                    <dd><strong>Dallas/Fort Worth: </strong><br /><a href="callto:#">817.756.6666</a></dd>
-                                    <dd><strong>Oklahoma City: </strong><br /><a href="callto:#">405.551.8212</a></dd>
-                                    <dd><strong>Rio Grande Valley: </strong><br /><a href="callto:#">956.217.0398</a></dd>
+                                    <dd><strong>Fort Worth: </strong><br /><a href="callto:#">817.756.6666</a></dd>
                                 </dl>
                             </address>
                         </div>
@@ -165,7 +150,22 @@
         </section>
         <!--End how we can help-->
 
-    </main>
+        <!--Map-->
+        <section class="well-sm bg-default-variant-1">
+            <div class="container">
+                <div class="map">
+                    <div id="google-map" class="map_model map_model--1"></div>
+                    <ul class="map_locations">
+                      <li data-x="-97.3118676" data-y="32.8225778">
+                        <p>4500 Mercantile Plaza Fort Worth, TX 76137 <span>888-884-9380</span></p>
+                      </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!--End map-->
+
+      </main>
     <!--========================================================
                               FOOTER
     =========================================================-->

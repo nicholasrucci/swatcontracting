@@ -8,7 +8,7 @@
         <div class="top-part">
             <div class="container">
                 <ul class="inline-list top-menu">
-                    <li><a href="#">Call now for a FREE estimate</a></li>
+                    <li><a href="contact.php">Call now for a FREE inspection toll free 888.884.9380</a></li>
                 </ul>
                 <ul class="inline-list text-right">
                   <li><a class="icon icon-md icon-secondary fa-facebook" href="https://www.facebook.com/pages/SWAT-Contracting/229951837082509" target="_blank"></a></li>
@@ -55,7 +55,7 @@
                             </ul>
                         </li>
                         <li class="active">
-                            <a href="projects.php">Projects</a>
+                            <a href="employment.php">Employment</a>
                         </li>
                         <li>
                             <a href="contact.php">Contact</a>
@@ -78,10 +78,10 @@
                               CONTENT
     =========================================================-->
     <main class="text-center">
-        <!--Residential projects-->
+        <!--Residential Employment-->
         <section class="well-xl">
             <div class="container">
-                <h2 class="text-md-left">residential projects</h2>
+                <h2 class="text-md-left">residential Employment</h2>
                 <div class="row flow-offset">
                     <div class="col-md-4 col-sm-6">
                         <ul class="marked-list offset-0 text-left">
@@ -107,12 +107,12 @@
                 </div>
             </div>
         </section>
-        <!--End residential projects-->
+        <!--End residential Employment-->
 
-        <!--Residential projects-->
+        <!--Residential Employment-->
         <section>
             <div class="container">
-                <h2 class="text-center text-md-left">commercial projects</h2>
+                <h2 class="text-center text-md-left">commercial Employment</h2>
                 <div class="row flow-offset">
                     <div class="col-md-4 col-sm-6">
                         <ul class="marked-list offset-0 text-left">
@@ -138,12 +138,12 @@
                 </div>
             </div>
         </section>
-        <!--End residential projects-->
+        <!--End residential Employment-->
 
-        <!--Shorefront stabilization projects-->
+        <!--Shorefront stabilization Employment-->
         <section class="well-md well-md--inset-1">
             <div class="container">
-                <h2 class="text-center text-md-left">Shorefront stabilization projects</h2>
+                <h2 class="text-center text-md-left">Shorefront stabilization Employment</h2>
                 <div class="row flow-offset">
                     <div class="col-sm-6 col-md-4">
                         <ul class="marked-list offset-0 text-left">
@@ -161,7 +161,7 @@
                 </div>
             </div>
         </section>
-        <!--End shorefront stabilization projects-->
+        <!--End shorefront stabilization Employment-->
 
 
 

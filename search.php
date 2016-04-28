@@ -39,7 +39,7 @@
         <div class="top-part">
             <div class="container">
                 <ul class="inline-list top-menu">
-                    <li><a href="#">Call now for a FREE estimate</a></li>
+                    <li><a href="contact.php">Call now for a FREE inspection toll free 888.884.9380</a></li>
                     <li><a href="#">faq</a></li>
                 </ul>
                 <ul class="inline-list text-right">
@@ -105,7 +105,7 @@
                             <a href="services.html">Services</a>
                         </li>
                         <li>
-                            <a href="projects.html">Projects</a>
+                            <a href="Employment.html">Employment</a>
                         </li>
                         <li>
                             <a href="contact.html">Contact</a>
