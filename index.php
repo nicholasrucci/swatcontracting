@@ -99,7 +99,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="news-post">
                 <iframe width="310px" height="250px" src="http://www.youtube.com/embed/LqutAx-HOHY?rel=0" frameborder="0" allowfullscreen=""></iframe><br /><br />
-              <p class="inset-1">Hail storms can do a tremendous amount of damage to roofs on residential homes. The problem is you can't see the damage from the ground. <strong>S.W.A.T Roofing &amp; Contracting</strong> can let you know what has been damaged.</p>
+              <p class="inset-1">Hail storms can do a tremendous amount of damage to roofs on residential homes. The problem is you can&#39;t see the damage from the ground. <strong>S.W.A.T Roofing &amp; Contracting</strong> can let you know what has been damaged.</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6">
@@ -156,6 +156,19 @@
               </ul>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+    <section class="well-md bg-default-variant-1">
+      <div class="container">
+        <h3 style="text-align: center;">Vendors We Use</h3>
+        <p style="text-align: center;" class="small uppercase brdr text-md-left offset-2">We use only the best materials</p>
+        <div class="flex-container">
+            <img class="vendor-logo" alt="gaf" src="images/gaf-logo.jpg">
+            <img class="vendor-logo" alt="elk" src="images/elk-logo.png">
+            <img class="vendor-logo" alt="pink-panther" src="images/pink-logo.png">
+            <img class="vendor-logo" alt="atlas" src="images/atlas-logo.png">
+            <img class="vendor-logo" alt="gaf" src="images/tamko.png">
         </div>
       </div>
     </section>
