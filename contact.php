@@ -81,7 +81,7 @@
 
 
         <!--How we can help-->
-        <section class="well-xl well-xl--inset-1">
+        <section class="well-sm well-sm--inset-1 text-md-left">
             <div class="container">
                 <div class="row flow-offset">
                     <div class="col-md-4 text-center text-md-left">
