@@ -76,7 +76,7 @@
     =========================================================-->
     <main class="text-center">
         <!--Who we are-->
-       <section class="well-sm well-sm--inset-1 bg-image-1">
+       <section class="well-sm well-sm--inset-1">
            <div class="container">
                <div class="row flow-offset text-md-left">
                    <div class="col-md-6 col-sm-6 text-sm-left">
