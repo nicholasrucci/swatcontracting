@@ -93,7 +93,7 @@ a {
   transition: 0.3s;
 }
 a:hover {
-  color: #c0251b;
+  color: #eff418;
 }
 a:focus {
   outline: none;
@@ -109,7 +109,7 @@ a[href^="callto:"] {
 }
 a[href^="tel:"]:hover,
 a[href^="callto:"]:hover {
-  color: #c0251b;
+  color: #eff418;
 }
 
 .fa {
@@ -420,7 +420,7 @@ h5 + .offset-3 {
 * @section Helpers
 */
 .text-primary {
-  color: #c0251b;
+  color: rgb(87, 87, 87);
 }
 
 .text-secondary {
@@ -654,7 +654,7 @@ strong {
 * @subsection Copyright
 */
 .copyright {
-  color: #e60f14;
+  color: #eff418;
 }
 .copyright a {
   font-family: "Play", sans-serif;
@@ -720,7 +720,7 @@ strong {
   text-transform: uppercase;
 }
 .product h5 a:hover {
-  color: #c0251b;
+  color: rgb(204, 196, 10);
 }
 .product img {
   width: auto;
@@ -875,13 +875,13 @@ strong {
   font-weight: 400;
   font-size: 6px;
   font-family: "FontAwesome";
-  color: #c0251b;
+  color: #000;
 }
 .marked-list li + li {
   margin-top: 8px;
 }
 .marked-list a:hover {
-  color: #c0251b;
+  color: #eff418;
 }
 
 /*
@@ -1107,7 +1107,7 @@ strong {
   }
 }
 .icon-primary {
-  color: #c0251b;
+  color: #eff418;
 }
 .icon-secondary {
   color: #fff;
@@ -1116,7 +1116,7 @@ strong {
   color: #959595;
 }
 .icon:hover {
-  color: #c0251b;
+  color: #eff418;
 }
 
 /*
@@ -1734,7 +1734,7 @@ strong {
   background: url(../images/search.png) no-repeat center;
 }
 .search-form_submit:hover {
-  color: #c0251b;
+  color: #eff418;
 }
 
 .search-form_toggle {
@@ -1750,7 +1750,7 @@ strong {
   background: url(../images/search.png) no-repeat center;
 }
 .search-form_toggle.active, .search-form_toggle:hover {
-  color: #c0251b;
+  color: #eff418;
 }
 .search-form_toggle.active:before {
   content: "";
@@ -1787,7 +1787,7 @@ strong {
   color: #999;
 }
 .search-form_liveout .search_link .search_title {
-  color: #c0251b;
+  color: #eff418;
   text-transform: uppercase;
 }
 .search-form_liveout .search_link:hover {
@@ -1799,7 +1799,7 @@ strong {
 }
 .search-form_liveout .search_error {
   display: block;
-  color: #c0251b;
+  color: #eff418;
   background: #fafafa;
   padding: 10px 10px;
   overflow: hidden;
@@ -1810,7 +1810,7 @@ strong {
 .search-form_liveout button {
   display: block;
   width: 100%;
-  color: #c0251b;
+  color: #eff418;
   background: #fafafa;
   padding: 10px 10px;
 }
@@ -1860,7 +1860,7 @@ input:focus + .search-form_liveout {
   outline: none;
 }
 .search-frame h4 a:hover {
-  color: #c0251b;
+  color: #eff418;
 }
 .search-frame .search_list {
   margin: 0;
@@ -1997,7 +1997,7 @@ footer address a[href^="callto:"] {
   }
 }
 footer address a[href^="mailto:"] {
-  color: #e60f14;
+  color: #eff418;
 }
 footer address a[href^="mailto:"]:hover {
   color: #fff;
