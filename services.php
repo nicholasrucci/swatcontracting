@@ -80,7 +80,7 @@
     =========================================================-->
     <main class="text-center">
         <!--Our services-->
-        <section class="well-sm well-sm--inset-1 bg-image-1 text-md-left">
+        <section class="well-sm well-sm--inset-1 text-md-left">
             <div class="container">
                 <h2>our services</h2>
                 <div class="row flow-offset ">
