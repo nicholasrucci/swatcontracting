@@ -245,7 +245,7 @@
   transition: 0.3s all ease;
 }
 .camera_pag_ul li.cameracurrent, .camera_pag_ul li:hover {
-  background: #c0251b;
+  background: #eff418;
 }
 .camera_pag_ul li + li {
   margin-left: 5px;
