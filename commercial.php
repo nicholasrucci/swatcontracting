@@ -79,7 +79,7 @@
     =========================================================-->
     <main class="text-center">
         <!--Residential Employment-->
-        <section class="well-xl">
+        <section class="well-sm well-sm--inset-1 text-md-left">
             <div class="container">
               <h2 class="text-md-left">commercial services</h2>
                 <div class="row text-md-left flow-offset">
