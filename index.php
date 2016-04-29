@@ -106,7 +106,7 @@
   =========================================================-->
   <main>
     <!--Welcome to company-->
-    <section class="well-lg bg-image-1 text-center ">
+    <section class="well-sm well-sm--inset-1 text-center">
       <div class="container">
         <h2 class="text-sm-left">welcome to our company!</h2>
         <h4 class="text-sm-left">Stories of the impact that we have made on the community</h4>
