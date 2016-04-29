@@ -54,10 +54,10 @@
                               <li><a href="commercial.php">Commercial</a></li>
                             </ul>
                         </li>
-                        <li >
+                        <li class="active">
                             <a href="employment.php">Employment</a>
                         </li>
-                        <li class="active">
+                        <li>
                             <a href="contact.php">Contact</a>
                         </li>
                     </ul>
